@@ -95,7 +95,7 @@
                     }
                     echo 'Ingewikkelde som: ' . $c . " a = $a\n";
                     $endtime = microtime(true); // Bottom of page;
-                    echo "Page loaded in %f seconds", $endtime - $starttime;
+                    echo "Laadtijd: " . round($endtime - $starttime, 2);
                     ?>
                 </div>
 
