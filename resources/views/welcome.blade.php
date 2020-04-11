@@ -1,3 +1,4 @@
+<?PHP $starttime = microtime(true); // Top of page ?>
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -81,7 +82,21 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel <?PHP echo time(); ?>
+                    Laravel Laatste Update: <?PHP echo date("h:i:s") ?>
+                    <br /><br />
+                    <?PHP
+                    $a = 3.1415926;
+                    $b = 2.718;
+                    $c = 10000000;
+                    for($j=0; $j<10; $j++) {
+                        for($i=0; $i<$c; $i++) {
+                            $a = $a + $b;
+                        }
+                    }
+                    echo 'Ingewikkelde som: ' . $c . " a = $a\n";
+                    $endtime = microtime(true); // Bottom of page;
+                    echo "Page loaded in %f seconds", $endtime - $starttime;
+                    ?>
                 </div>
 
                 <div class="links">

@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::group(['middleware' => 'cacheable:1'], function() {
+Route::group(['middleware' => 'cacheable:2'], function() {
   Route::get('/', function () {
       return view('welcome');
   });
