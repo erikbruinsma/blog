@@ -22,7 +22,8 @@ Route::group(['middleware' => 'cacheable:2'], function() {
   Route::get('/f2', function () {
       return view('f1');
   });
-  Route::get('/f3', function () {
-      return view('f1');
-  });
+
+});
+Route::get('/f4', function () {
+    return view('f1');
 });
