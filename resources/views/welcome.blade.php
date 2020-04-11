@@ -96,7 +96,9 @@
 
                     $endtime = microtime(true); // Bottom of page;
                     echo "Laadtijd: " . round($endtime - $starttime, 2);
+
                     ?>
+                    {!! Request::server('SERVER_ADDR') !!}
                 </div>
 
                 <div class="links">
