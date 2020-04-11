@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Laatste Update: <?PHP echo date("h:i:s") ?>
+                    Primrose Laatste Update: <?PHP echo date("h:i:s") ?>
                     <br /><br />
                     <?PHP
                     $a = 3.1415926;
@@ -98,7 +98,6 @@
                     echo "Laadtijd: " . round($endtime - $starttime, 2);
 
                     ?>
-                    {!! Request::server('SERVER_ADDR') !!}
                 </div>
 
                 <div class="links">
