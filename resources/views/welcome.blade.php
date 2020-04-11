@@ -93,7 +93,7 @@
                             $a = $a + $b;
                         }
                     }
-                    echo 'Ingewikkelde som: ' . $c . " a = $a\n";
+
                     $endtime = microtime(true); // Bottom of page;
                     echo "Laadtijd: " . round($endtime - $starttime, 2);
                     ?>
