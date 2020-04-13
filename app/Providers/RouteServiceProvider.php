@@ -67,14 +67,6 @@ class RouteServiceProvider extends ServiceProvider
       }
     }
 
-    protected function mapTenantRoutes()
-    {
-        Route::prefix('tenant')
-            ->middleware('tenant')
-            ->namespace($this->namespace)
-            ->group(base_path('routes/tenant.php'));
-    }
-
     /**
      * Define the "api" routes for the application.
      *
