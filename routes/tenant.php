@@ -11,8 +11,9 @@
 |
 */
 Route::get('/', function () {
-  if ($extempt_domain === $current_domain) return;
+  if ($extempt_domain === $current_domain) { } else {
     return view('welcome', ['id' => tenant('id')]);
+  }
 });
 Route::get('/f1', function () {
     return view('f1');
