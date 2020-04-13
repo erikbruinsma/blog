@@ -95,7 +95,7 @@ return [
     'storage_to_config_map' => [ // Used by the TenantConfig feature
         // 'paypal_api_key' => 'services.paypal.api_key',
     ],
-    'home_url' => '/app',
+    'home_url' => '',
     'create_database' => true,
     'queue_database_creation' => false,
     'migrate_after_creation' => true, // run migrations after creating a tenant
