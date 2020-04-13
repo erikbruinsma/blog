@@ -45,7 +45,7 @@ class Kernel extends HttpKernel
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
         ],
         'tenant' => [
-          \Spatie\Varnish\Middleware\CacheWithVarnish::class,
+          'cacheable' => \Spatie\Varnish\Middleware\CacheWithVarnish::class,
         ]
     ];
 
