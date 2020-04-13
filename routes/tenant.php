@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/app', function () {
+
     return view('welcome', ['id' => tenant('id')]);
 });
