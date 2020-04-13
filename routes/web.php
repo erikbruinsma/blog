@@ -28,3 +28,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/f4', function () {
     return view('f1');
 });
+
+Route::get('/w', function () {
+    return view('welcome');
+});
