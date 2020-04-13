@@ -12,6 +12,10 @@
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
 
     return view('welcome', ['id' => tenant('id')]);
+=======
+    return 'This is your multi-tenant application. The id of the current tenant is ' . tenant('id');
+>>>>>>> parent of 079fc53... fix central
 });

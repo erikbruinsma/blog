@@ -26,7 +26,7 @@ return [
     ],
     'tenant_route_namespace' => 'App\Http\Controllers',
     'exempt_domains' => [ // e.g. domains which host landing pages, sign up pages, etc
-        'primrose.dev',
+        'localhost',
     ],
     'database' => [
         'based_on' => null, // The connection that will be used as a base for the dynamically created tenant connection. Set to null to use the default connection.
