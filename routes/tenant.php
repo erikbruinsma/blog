@@ -10,6 +10,7 @@
 | with the tenancy and web middleware groups. Good luck!
 |
 */
+if ($extempt_domain === $current_domain) return;
 
 Route::get('/', function () {
     return view('welcome', ['id' => tenant('id')]);
