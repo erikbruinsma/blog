@@ -45,7 +45,6 @@ class RouteServiceProvider extends ServiceProvider
         $this->mapApiRoutes();
 
         $this->mapWebRoutes();
-        $this->mapTenantRoutes();
 
         //
     }
@@ -75,13 +74,13 @@ class RouteServiceProvider extends ServiceProvider
      * @return void
      */
      protected function mapApiRoutes()
-     {
-         foreach (config('tenancy.exempt_domains', []) as $domain) {
-             Route::prefix('api')
-                 ->middleware('api')
-                 ->domain($domain)
-                 ->namespace($this->namespace)
-                 ->group(base_path('routes/api.php'));
-         }
-     }
+   {
+       foreach (config('tenancy.exempt_domains', []) as $domain) {
+           Route::prefix('api')
+               ->middleware('api')
+               ->domain($domain)
+               ->namespace($this->namespace)
+               ->group(base_path('routes/api.php'));
+       }
+   }
 }
