@@ -98,6 +98,9 @@
                     echo "Laadtijd: " . round($endtime - $starttime, 2);
 
                     ?>
+                    <br />
+                    Pagina: {{ $id ?? 'reboot' }}
+
                 </div>
 
                 <div class="links">
