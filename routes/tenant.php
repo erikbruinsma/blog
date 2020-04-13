@@ -10,6 +10,8 @@
 | with the tenancy and web middleware groups. Good luck!
 |
 */
-Route::get('/', function () {
-    return view('welcome', ['id' => tenant('id')]);
+Route::group(['middleware' => 'cacheable:1'], function() {
+  Route::get('/', function () {
+      return view('welcome', ['id' => tenant('id')]);
+  });
 });
