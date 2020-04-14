@@ -1,3 +1,4 @@
+// app/Repositories/CustomUserRepository.php
 namespace App\Repositories;
 
 use App\User;
