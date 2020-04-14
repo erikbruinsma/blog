@@ -20,8 +20,7 @@ Route::group(['middleware' => 'cacheable:1'], function() {
   Route::get('/f1', function () {
       return view('f1');
   });
+  Auth::routes();
+
+  Route::get('/home', 'HomeController@index')->name('home');
 });
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
