@@ -14,7 +14,4 @@ Route::group(['middleware' => 'cacheable:1'], function() {
   Route::get('/', function () {
       return view('welcome', ['id' => tenant('id')]);
   });
-  Route::get('/bn', function () {
-      return view('f1');
-  });
 });
