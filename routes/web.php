@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::group(['middleware' => 'cacheable:1'], function() {
   Route::get('/', function () {
-      return view('welcome', ['id' => 'reb']);
+      return view('welcome', ['id' => 'reboot']);
   });
   Route::get('/f1', function () {
       return view('f1');
