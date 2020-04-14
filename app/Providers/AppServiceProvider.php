@@ -11,6 +11,7 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
+<<<<<<< HEAD
      public function register()
      {
          $this->app->bind(
@@ -18,6 +19,12 @@ class AppServiceProvider extends ServiceProvider
            \App\Repositories\CustomUserRepository::class
          );
      }
+=======
+    public function register()
+    {
+        //
+    }
+>>>>>>> parent of cbcb841... test
 
     /**
      * Bootstrap any application services.
