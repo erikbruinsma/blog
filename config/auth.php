@@ -71,12 +71,10 @@ return [
             'model' => App\User::class,
         ],
 
-        // 'users' => [
-        //     'driver' => 'database',
-        //     'table' => 'users',
-        // ],
+         'users' => [
+             'driver' => 'auth0'
+        ],
     ],
-
     /*
     |--------------------------------------------------------------------------
     | Resetting Passwords

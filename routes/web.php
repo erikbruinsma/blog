@@ -26,3 +26,7 @@ Route::group(['middleware' => 'cacheable:1'], function() {
 });
 Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
+
+Route::get( '/auth0/callback', '\Auth0\Login\Auth0Controller@callback' )->name( 'auth0-callback' );
+Route::get( '/login', 'Auth\Auth0IndexController@login' )->name( 'login' );
+Route::get( '/logout', 'Auth\Auth0IndexController@logout' )->name( 'logout' )->middleware('auth');
