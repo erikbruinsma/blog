@@ -1,1180 +1,1870 @@
 
 <!doctype html>
-<html lang="en">
+<html lang="nl">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>F1 Maximaal | Laatste nieuws over Max Verstappen, Red Bull en de Formule 1</title>
-  <meta name="csrf-token" content="jCJ7ZiVnbFScRYUhfuZzv1l92hR1iscFrEQIDdCS">
-     <meta name="description" content="Al het laatste nieuws over de Formule 1 en Max Verstappen. Volg hier ook de Formule 1 LIVE!">     <link rel="shortcut icon" href="https://reach.jentcdn.net/assets/f1maximaal/image/f1maximaal.ico?c=1" type="image/x-icon">
-  <link rel="icon" href="https://reach.jentcdn.net/assets/f1maximaal/image/f1maximaal.ico?c=1" type="image/x-icon">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Work+Sans:500,600,700,800&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="https://reach.jentcdn.net/assets/f1maximaal/css/custom.css?201910292">
-  <link rel="stylesheet" type="text/css" href="https://reach.jentcdn.net/assets/f1maximaal/css/addtohomescreen.css">
-  <meta name="theme-color" content="#FFF">
-  <meta name="msapplication-TileColor" content="#FFF">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="F1 Maximaal Nieuws">
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-      <link rel="apple-touch-startup-image" href="/img/pwa/640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/1536x2048.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/1668x2224.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
-<link rel="apple-touch-startup-image" href="/img/pwa/2048x2732.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+  <meta name="csrf-token" content="vSdxKeGNqDtMAULnxdjgBWzXTDi6lN3aQApybVF3">
+    <meta name="apple-itunes-app" content="app-id=532875402">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="https://bnmedia.jentcdn.net/assets/bnmedia/css/starter-template.min.css?v=20190205">
+    <link rel="manifest" href="https://bnmedia.jentcdn.net/assets/bnmedia/image/twentefans.json">
+     <meta name="description" content="Al het FC Twente nieuws op een rij. Alles wat je wilt weten over FC Twente te vinden op één plek bij Twentefans.nl. Ontdek ze hier!">   <link rel="canonical" href="https://www.twentefans.nl">
+    <link rel="shortcut icon" href="https://bnmedia.jentcdn.net/assets/bnmedia/image/twentefans.ico" type="image/x-icon">
+  <link rel="icon" href="https://bnmedia.jentcdn.net/assets/bnmedia/image/twentefans.ico" type="image/x-icon">
+      <title>FC Twente Nieuws | Twentefans | Al het nieuws over FC Twente</title>
+  <meta name="google-site-verification" content="BFZ724UkErGB5-NO4OpDxS7aVIKM4t19U_3u35iqq1w" />
 
-<link rel="apple-touch-icon" href="/img/pwa/75x75.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/img/pwa/152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/img/pwa/180x180.png">
-<link rel="apple-touch-icon" sizes="167x167" href="/img/pwa/167x167.png">
+<style type="text/css">
+body {background-color:#DDD}
+  .navbar-custom, .custombg, .latest-comments, .btn-theme, .btn-theme:hover, .list-video, .list-video li, .btn-outline-danger:hover, .footer-distributed .copyright a.btn-vac, .navbar-search .dropdown-menu, .navbar-search-alt .dropdown-search {background-color: #a10000 !important;}
+  .btn-theme, .btn-theme:hover, .btn-theme:active, .btn-theme:visited, .btn-theme:focus {color:#FFF !important;}
+  .nav-pills .nav-item.open .nav-link, .nav-pills .nav-item.open .nav-link:focus, .nav-pills .nav-item.open .nav-link:hover, .nav-pills .nav-link.active, .nav-pills .nav-link.active:focus, .nav-pills .nav-link.active:hover {color:#a10000;}
+  .customtxt, .article-read-more h5, h1, .btn-group-switch .active, a:focus, a:hover, .article-read-more li::before, .list-video .btn-outline-danger:hover {color: #a10000 !important;}
+  .btn-outline-danger {color: #a10000 !important;border-color: #a10000 !important;}
+  .btn-play {background: rgba(20, 22, 94, 0.8) none repeat scroll 0 0; }
+  .inverse {background-color:#a10000 !important;color:#FFF !important;}
 
-<link rel="mask-icon" href="/img/pwa/safari-pinned-tab.svg" color="#FFF">
+  .customborder {border-color:#a10000 !important;}
+  .arrow_previous, .arrow_next { background: rgba(20, 22, 94, 0.6); }
+  .arrow_previous_hidden .highlight, .arrow_next_hidden .highlight {color:rgba(20, 22, 94, 1);}
+  .inverse_tag {background-color:#FFF !important;color:#a10000 !important;}
+  @media (max-width: 992px) { .navbar-main, .nav-item.active { background-color: #a10000; } .navbar-main .nav-item:hover > a { background-color: rgba(255, 255, 255, 0.1) !important;} } }
+.btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover, .btn-primary.focus, .btn-primary:focus { background-color: #a10000;border-color: #a10000;}
+.btn-outline-danger.focus, .btn-outline-danger:focus {background-color:#FFF !important;color:#a10000 !important;}
+.read-also {text-align: center;margin-bottom: 1rem;display: block;margin-top: 1rem;padding-top: 1rem;padding-bottom: 1rem;background: rgba(20, 22, 94, 0.2);}
+.read-also span {font-weight:bold;}
+.read-also a {text-decoration:underline;}
+.slick-dots li.slick-active button:before {color: #a10000;}
+#mlatest + .dads {float:left;width:100%}
+.nav-pills {border-color:#a10000;}
+.stats .table-active, .stats .table-active>td, .stats .table-active>th {color:#a10000;}
+.navbar-sub ul li.active a, .navbar-sub ul li:hover a {color:#a10000;}
+.navbar-sub ul li.active, .navbar-sub ul li:hover {border-bottom: 3px solid #a10000;}
+#menu-one {    background-color: #a10000;}
+.previous_next a, .previous_next a i  {color:#a10000 !important;}
+.login-theme, .register-theme { margin-bottom:0;width:50%;border-bottom:4px solid #DDD;text-align:center;text-transform:uppercase;color:#a10000;float:left;}
+.register-theme {border-bottom:4px solid #DDD;}
+.register-theme a {color:#AAA;}
+.login-theme {border-bottom:4px solid #a10000;}
+.login-theme a {color:#a10000}
+.register-theme:hover {border-bottom:4px solid #a10000;}
+.register-theme:hover > a {color:#a10000;}
+.google-auto-placed {display:none;}
+.dads, .mads {overflow:hidden;}
+.breadcrumbs {padding-left:0;}
+.breadcrumbs li {list-style:none;display:inline;}
+.navbar-sub ul {height: 41px;margin: 0;}
 
-<meta name="msvalidate.01" content="F24141BF8B557FEC0FD4A98EEAEDE80F" />
+.nav-social{padding:0}
+ .navbar-dark .nav-left .nav-link {color: rgba(255,255,255,1) !important;}
+ .navbar-dark .nav-left .nav-link:hover, .large h1, .list-group-switch .latest-comments  {color: #FFF !important;}
+.slick-dots {height:25px;}
+  </style>
 
-<script>
-                              var msTag = {
-                                            site: 'f1maximaal',
-                                            page: 'home'
-                              }
-               </script>
-
-<link rel="manifest" href="/manifest.json" />
-
-
-<script>
-var eventHandler = function (event) {
-    if (('standalone' in window.navigator) && window.navigator.standalone) {
-        // Only run if link is an anchor and points to the current page
-        if ( event.target.tagName.toLowerCase() !== 'a' || event.target.hostname !== window.location.hostname || event.target.pathname !== window.location.pathname || !/#/.test(event.target.href) ) return;
-
-        // Open link in same tab
-        event.preventDefault();
-        window.location = event.target.href;
-    }
-}
-window.addEventListener('click', eventHandler, false);
-</script>
-
-<style>
-@media screen and (max-width: 479px) {
-#mvp-nav-main {display:none;}
-main .col {padding:0;}
-#main-news img, #main-videos img, #home .media img {margin-top:0.85rem !important;margin-bottom:0.85rem;}
-.media-body small.d-block {display:none !important;}
-}
-
-    table tr:first-child td {background-color:#FF0000;color:#FFF;font-weight:bold;text-transform:uppercase;}
-
-table {
-  line-height: 25px;
-  text-align: left;
-  width: 100%;
-margin-bottom:1rem;
-background-color:#F3F3F3;
-}
-
-table td {
-  padding: 7px;
-  border-top: 1px solid #ddd;
-}
-
-.h2, h2 {
-    font-size: 1.5rem;
-}
-.h3, h3 {
-   font-size:1.25rem;
-}
-h1 strong, h2 strong, h3 strong, h4 strong, h5 strong {font-weight:600;}
-#fingerprint {display:none !important;}
-
-.menu-main-menu-container {background-color: #F99C1C;border-bottom: 4px solid #DB7B07;}
-.js-toggle-user, btn.js-register, form .btn {background-color: #F99C1C !important;}
-span.mvp-feat2-sub-cat, span.mvp-feat2-main-cat, table tr:first-child td, .btn.dropdown-toggle {background: #F99C1C !important;}
-.btn-primary {background-color: #F99C1C;border-color: #F99C1C;}
-.bg-primary, .btn-primary, .badge-primary, .fancy-image:after {background-color: #F99C1C!important;}
-.menu li:hover, li.active_submenu {background-color: #DB7B07;}
-.text-primary {color: #F99C1C!important;}
-#sidebar ul li.has_subnav:after, a:hover {color:#F99C1C;}
-.fa-times.js-toggle-user {background:none !important;}
-a.js-forgot-password, a.js-signup, a.js-login-form {background: #eee !important;}
-</style>
-<meta name="google-site-verification" content="r-_F0GqTelsBXMwRGutTn_P-6FcR93ovhSmer2Tz4I0" />
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-  <script> var auth = {"status":false}; </script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
 </head>
 <body>
 
 
+  <nav class="fixed-top navbar-dark bg-faded navbar-custom">
+
+    <div class="container top">
+      <div class="row no-gutters">
+        <div class="col">
+
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <button class="navbar-toggler js-menu" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+              <i class="fa fa-bars" aria-hidden="true" style="font-size:1.6em;margin-top:5px;"></i>
+              <i class="fa fa-times fa-custom" aria-hidden="true" style="font-size:1.8em;margin-top:0;"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+              <ul class="navbar-nav mr-auto mt-2 mt-lg-0 nav-main nav-left">
+                <li class="nav-item d-block d-lg-none">
+                  <form action="/zoeken" method="GET" style="float:right;margin-top:5px;width:calc(100% - 20px);margin:10px;">
+                    <input type="text" name="q" id="q" class="form-control" placeholder="Zoeken" style="width:100%;height:28px;padding:5px;font-size:12px;">
+                  </form>
+                </li>
+
+                                                    <li class="nav-item">
+                    <a class="nav-link" href="/nieuws/fotos" >Foto's</a>
+                  </li>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/nieuws" >Nieuws</a>
+                  </li>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/fc-twente/statistieken/programma" >Agenda</a>
+                  </li>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/fc-twente/statistieken/stand" >Stand</a>
+                  </li>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/fc-twente/voorspelling" >Pool</a>
+                  </li>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/nieuws/videos" >Video's</a>
+                  </li>
+                                                </li>
+                <div class="nav-social" style="width: auto;margin: 0 auto;">
+
+                                      <li class="d-block d-sm-none">
+                      <a href="https://twitter.com/twentefans" target="_blank">
+                          <i class="fa fa-twitter"></i>
+                          <span class="sr-only">Volg Twentefans.nl op Twitter</span>
+                      </a>
+                  </li>
+                                                      <li class="d-block d-sm-none">
+                      <a href="https://www.facebook.com/Twentefans">
+                          <i class="fa fa-facebook"></i>
+                          <span class="sr-only">Volg Twentefans.nl op Facebook</span>
+                      </a>
+                  </li>
+                                                      <li class="d-block d-sm-none">
+                      <a href="https://www.instagram.com/twentefans">
+                          <i class="fa fa-instagram"></i>
+                          <span class="sr-only">Volg Twentefans.nl op Instagram</span>
+                      </a>
+                  </li>
+                                    <li class="d-block d-sm-none">
+                      <a href="/rss/nieuws">
+                          <i class="fa fa-rss"></i>
+                          <span class="sr-only">Verkrijg de RSS feed van Twentefans.nl</span>
+                      </a>
+                  </li>
+              </div>
+            </li>
+
+                <!--
+                <li class="nav-item ">
+                  <a class="nav-link" href="/nieuws">Nieuws</a>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link" href="https://www.twentefans.nl/nieuws/videos">Video's</a>
+                </li>
+                                <li class="nav-item  "><a class="nav-link" href="https://www.twentefans.nl/fc-twente/statistieken/programma">Agenda</a></li>
+                <li class="nav-item  "><a class="nav-link" href="https://www.twentefans.nl/fc-twente/statistieken/stand">Stand</a></li>
+
+                                    <li class="nav-item  "><a class="nav-link" href="https://www.twentefans.nl/fc-twente/voorspelling">Pool</a></li>
+                                                  -->
+
+
+              </ul>
+            </div>
+          </nav>
+
+
+        </div>
+
+
+
+        <div class="col navbar-search-alt">
+          <div class="pull-right" id="exCollapsingNavbar3" style="width:100%;position:relative;">
+
+
+
+
+            <ul class="nav navbar-nav icon-account-padding" style="padding-left:15px;width:auto;float:right;">
+              <li class="nav-item dropdown navbar-account" style="background:none !important;float:right;margin-top:-4px;padding-top:2px;">
+                                <a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#" style="float:left;"><span class="nav-link fa fa-user fa-2x" style="height: 40px;width: 30px;margin-top: 14px;margin-left: 4px;padding-left: 13px;float:left;"></span><span style="margin-left:9px;color:#FFF;font-weight:500;font-size:1.1em;line-height:46px;margin-top:3px;float:left;" class="d-none d-lg-block">Inloggen</span></a>
+
+                <div class="dropdown-menu dropdown-menu-right dropdown-styling">
+
+                                      <div class="dropdown-item dropdown-account" style="text-align:left;background-color:#FFF;">
+                      <form class="form-signin" role="form" data-form=".form-signin" method="POST" action="https://www.twentefans.nl/api/v1/auth/login">
+                        <input type="hidden" name="_token" value="vSdxKeGNqDtMAULnxdjgBWzXTDi6lN3aQApybVF3">
+                        <h6 class="form-signin-heading login-theme" style="padding:1rem 0;">Inloggen</h6>
+                        <h6 class="form-signin-heading register-theme" style="padding:1rem 0;"><a href="https://www.twentefans.nl/auth/register">Registreren</a></h6>
+
+                        <span class="signin-error" style="width:100%;"></span>
+                        <label for="inputEmail" class="sr-only">Gebruikersnaam</label>
+                        <input type="text" name="username" id="inputEmail" class="form-control" placeholder="Gebruikersnaam" required>
+                        <label for="inputPassword" class="sr-only">Wachtwoord</label>
+                        <input type="password" name="password" id="inputPassword" class="form-control " style="margin-top:1rem" placeholder="Wachtwoord" required>
+                        <div class="checkbox mt-1 pull-left">
+                          <label style="font-size:12px;">
+                            <input type="checkbox" name="remember" value="YES"> Onthouden</label>
+                        </div>
+                        <div class="checkbox pull-right mt-1">
+                          <a href="#" class="js-forgot-password" style="color:#365899;font-size:12px;">Wachtwoord vergeten?</a>
+                        </div>
+                        <div style="clear:both;"></div>
+                          <button class="btn btn-lg btn-primary btn-block custombg customborder btn-theme" type="submit" style="margin-bottom:15px; color:#FFF !important;width:50%;">Inloggen</button>
+                        </form>
+                        <form class="form-pw-forgotten" style="display:none;" role="form" method="POST" action="https://www.twentefans.nl/api/v1/auth/passwords/email">
+                        <input type="hidden" name="_token" value="vSdxKeGNqDtMAULnxdjgBWzXTDi6lN3aQApybVF3">
+                        <h6 class="form-signin-heading pt-1 pb-1" style="margin-bottom:0;">Wachtwoord vergeten</h6>
+                        <span class="password-forgotten-error" style="width:100%;"></span>
+                        <label for="inputEmail" class="sr-only">Emailadres</label>
+                        <input type="email" name="username" id="ForgottenEmail" class="form-control" placeholder="Emailadres" required autofocus>
+                          <button class="btn btn-lg btn-primary btn-block mt-1 custombg customborder btn-theme" type="submit">Nieuw wachtwoord aanvragen</button>
+                          <div class="checkbox mt-1" style="text-align:center;">
+                            <label>Of <strong style="text-decoration:underline;"><a href="#" class="js-login-form">Inloggen</a></strong></label>
+                          </div>
+                        </form>
+                      </div>
+
+                </div>
+              </li>
+              </ul>
+
+              <style>
+              .nav-social {line-height:48px;}
+              .nav-social a {color:#FFF;padding:5px;margin:2px;font-size:150%;}
+              .nav-social a:hover {color:#CCC !important;}
+              .nav-social li {float:left;width:auto;margin:0;padding:0;list-style:none;}
+              </style>
+
+              <ul class="nav-social" style="float:right;">
+
+                                  <li class=" d-none d-lg-block">
+                    <a href="https://twitter.com/twentefans" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                        <span class="sr-only">Volg Twentefans.nl op Twitter</span>
+                    </a>
+                </li>
+                                                <li class=" d-none d-lg-block">
+                    <a href="https://www.facebook.com/Twentefans">
+                        <i class="fa fa-facebook"></i>
+                        <span class="sr-only">Volg Twentefans.nl op Facebook</span>
+                    </a>
+                </li>
+                                                <li class=" d-none d-lg-block">
+                    <a href="https://www.instagram.com/twentefans">
+                        <i class="fa fa-instagram"></i>
+                        <span class="sr-only">Volg Twentefans.nl op Instagram</span>
+                    </a>
+                </li>
+                                <li class=" d-none d-lg-block">
+                    <a href="/rss/nieuws">
+                        <i class="fa fa-rss"></i>
+                        <span class="sr-only">Verkrijg de RSS feed van Twentefans.nl</span>
+                    </a>
+                </li>
+                <li style="margin-left:50px;margin-top:1px;">
+                    <a href="#" class="js-search" target="_blank">
+                        <i class="fa fa-search" style="font-size:130%;"></i>
+                        <span class="sr-only">Zoeken in Twentefans.nl</span>
+                    </a>
+                </li>
+            </ul>
+
+            <style>
+            #search {position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.9);display:none;z-index:2134234400;}
+            #search input {height:80px;font-size:50px;}
+            #search .search-close {position:fixed;top:25px;right:40px;font-size:400%;color:#FFF;}
+            @media  screen and (max-width: 659px) {
+              #search input {height:40px;font-size:25px;}
+            }
+            </style>
+
+              <div id="search">
+              <form action="/zoeken" method="GET" style="max-width:600px;width:90%;position:fixed;left:50%;top:50%;-webkit-transform: translate3d(-50%,-50%,0);
+    -ms-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);padding:40px;background-color:#FFF;">
+
+      <ul class="nav nav-pills" id="js-latest-most" role="tablist">
+      <li class="nav-item nav-50" style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Zoeken</a>
+      </li>
+    </ul>
+                <div class="input-group">
+                  <input type="text" name="q" id="q" class="form-control shadow-sm" placeholder="Zoeken" autofocus>
+                  <div class="input-group-append">
+                    <button class="btn btn-secondary" type="button">
+                      <i class="fa fa-search"></i>
+                    </button>
+                  </div>
+                </div>
+
+              </form>
+              <a href="#" class="js-search-close search-close fa fa-times" aria-hidden="true"></a>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+
+
+          <style>
+      .navbar-sub ul li a {
+          padding: 0 .5rem;
+        }
+        .navbar-sub {line-height:41px;}
+        .navbar-sub ul li {height:41px;}
+
+        body { padding-top: calc(107px + .5rem)!important; }
+    </style>
+
+      <nav class="navbar fixed-top navbar-dark bg-faded navbar-sub">
+        <div class="container">
+        <div style="width:calc(100%);overflow: auto;white-space: nowrap;height:41px;">
+            <ul>
+                            <li style="margin-top:0;display: inline-block;">
+                <a href="/laatste-reacties" >Reacties</a>
+              </li>
+                            <li style="margin-top:0;display: inline-block;">
+                <a href="/page/vacatures" >Stage lopen? </a>
+              </li>
+                            <li style="margin-top:0;display: inline-block;">
+                <a href="/sponsoren" >Sponsoren</a>
+              </li>
+
+                                          <!-- <li ><a href="/laatste-reacties">Reacties</a></li> -->
+              <!-- <li ><a href="/auth/register">Registreren</a></li> -->
+                          </ul>
+        </div>
+      </div>
+    </nav>
+
+<div class="container body">
+  <div class="dads"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Nieuw -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5360667507"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
-
-function testAPI() { // Testing Graph API after login.  See statusChangeCallback() for when this call is made.
-  console.log('Welcome!  Fetching your information.... ');
-  FB.api('/me', function(response) {
-    console.log('Successful login for: ' + response.name);
-    // document.getElementById('status').innerHTML = 'Bedankt voor het inloggen, ' + response.name + '!';
-  });
-}
-
-function statusChangeCallback(response) {
-    if (response.status == 'connected') {
-    testAPI();
-  }
-  }
-
-function checkLoginState() {
-  FB.getLoginStatus(function(response) {
-    statusChangeCallback(response);
-  });
-}
-
-
-  (function(d, s, id) { // Load the SDK asynchronously
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "https://connect.facebook.net/nl_NL/sdk.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId: '525700398345855',
-      cookie: true,
-      xfbml: true,
-      version: 'v5.0'
-    });
-
-  FB.getLoginStatus(function(response) {
-    statusChangeCallback(response);
-});
-
-}
-
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+ </div>
+  <div class="mads"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Nieuw -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5360667507"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+  <div class="row justify-content-between">
+    <div style="display:block;width:100%;">
+
+        <div class="responsive-news-big" style="margin-bottom:2px;">
+                      <div class="responsive-wrapper">
+              <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/675/118836_675ede6254cb36009078ae4ab32a1fab.jpg"  href="https://www.twentefans.nl/nieuws/hoofdnieuws/282927/perez-eerlijk-blaise-en-ik-lagen-elkaar-alleen-prive-niet">
+                                <h1 class="responsive-item rounded-bottom" style="color:#FFF !important;">Perez eerlijk: ''Blaise en ik lagen elkaar alleen privé niet''</h1>
+                            </a>
+            </div>
+                      <div class="responsive-wrapper">
+              <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/fbe/141755_fbef0165da3d1aeef4c5743f8c3d8755.jpg"  href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is">
+                                <div class="responsive-item rounded-bottom" >''UEFA begint in te zien dat voetballen niet meer mogelijk is''</div>
+                            </a>
+            </div>
+                      <div class="responsive-wrapper">
+              <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/1b9/140573_1b9408ba527951f572028a4deef888b7.jpg"  href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt">
+                                <div class="responsive-item rounded-bottom" >''Het is nog niet duidelijk waar de toekomst van Verdonk ligt''</div>
+                            </a>
+            </div>
+                      <div class="responsive-wrapper">
+              <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/75b/142094_75b5f82b147bab49ba90fa892f22eae9.jpg"  href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona">
+                                <div class="responsive-item rounded-bottom" >'Financiële klapper voor FC Twente bij transfer gewilde Corona'</div>
+                            </a>
+            </div>
+                      <div class="responsive-wrapper">
+              <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/filemanager/8655f4905c/104727_8655f4905cfe215522263ae3c3f18648.jpg"  href="https://www.twentefans.nl/nieuws/hoofdnieuws/282715/verbeek-baalt-dit-is-geen-manier-van-met-je-mensen-omgaan">
+                                <div class="responsive-item rounded-bottom" >Verbeek baalt: ''Dit is geen manier van met je mensen omgaan''</div>
+                            </a>
+            </div>
+                  </div>
+
+      <div class="responsive-news">
+                                                                <div class="responsive-wrapper">
+            <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/1b9/140573_1b9408ba527951f572028a4deef888b7.jpg"  href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt">
+                            <div class="responsive-item rounded-bottom" >''Het is nog niet duidelijk waar de toekomst van Verdonk ligt''</div>
+                        </a>
+          </div>
+                                    <div class="responsive-wrapper">
+            <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/75b/142094_75b5f82b147bab49ba90fa892f22eae9.jpg"  href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona">
+                            <div class="responsive-item rounded-bottom" >'Financiële klapper voor FC Twente bij transfer gewilde Corona'</div>
+                        </a>
+          </div>
+                                    <div class="responsive-wrapper">
+            <a class="responsive-wrapper-item rounded lozad"  style="background-size:100% auto;" data-background-image="https://bnmedia.jentcdn.net/media/624/shared/filemanager/8655f4905c/104727_8655f4905cfe215522263ae3c3f18648.jpg"  href="https://www.twentefans.nl/nieuws/hoofdnieuws/282715/verbeek-baalt-dit-is-geen-manier-van-met-je-mensen-omgaan">
+                            <div class="responsive-item rounded-bottom" >Verbeek baalt: ''Dit is geen manier van met je mensen omgaan''</div>
+                        </a>
+          </div>
+                      </div>
+      </div>
+    <div class="body-left">
+      <div class="mads"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Medium rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5715616743"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+      <div style="float:left;background-color:#FFF;overflow:hidden;width:100%;" id="newslist">
+    <style>
+    #newslist ul.list-group:not(:first-child) {
+    margin-top:0;
+}
+
+.list-group {
+    padding: 0;
+}
+.nav-special .nav-link  {border-top:3px solid #d1d1d1 !important;}
+.nav-special .nav-link:hover {border-top:3px solid #aaaaaa !important;}
+.nav-special .active, .nav-special .active:hover  {border-top:3px solid #a10000 !important;}
+</style>
+  <ul class="nav nav-pills nav-special" style="border:0;" role="tablist">
+    <li class="nav-item nav-50">
+      <a class="nav-link active" data-toggle="tab" href="#news_list" role="tab">Nieuws</a>
+    </li>
+    <li class="nav-item nav-50">
+      <a class="nav-link" data-toggle="tab" href="#video_list" role="tab">Video's</a>
+    </li>
+  </ul>
+  <div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="news_list" role="tabpanel" aria-labelledby="">
+  <ul class="list-group" id="mlatest" style="padding-top:0;">
+      <li class="list-group-item" style="padding-top:0;border:0;"> <div style="text-align:center;"><a href="https://dt51.net/c/?si=9321&li=1426816&wi=264790&ws=" rel="nofollow" target="_blank" style="color:rgb(0, 0, 238)
+;text-decoration:underline;"></a></div>
+ </li>
+                <li class="list-group-item">
+        <span class="datetime pull-left"> 09:25 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282929/driessen-stellig-duels-zonder-publiek-zijn-voor-velen-de-strohalm"> Driessen stellig: &#039;&#039;Duels zonder publiek zijn voor velen de strohalm&#039;&#039; </a>
+            </li>
 
 
 
 
+                      <li class="list-group-item">
+        <span class="datetime pull-left"> 08:29 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282927/perez-eerlijk-blaise-en-ik-lagen-elkaar-alleen-prive-niet"> Perez eerlijk: &#039;&#039;Blaise en ik lagen elkaar alleen priv&eacute; niet&#039;&#039; </a>
+       <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282927/perez-eerlijk-blaise-en-ik-lagen-elkaar-alleen-prive-niet#comments" class="comments pull-right">1</a>       </li>
 
 
 
-  <div class="overlay"></div>
 
-  <nav id="sidebar">
+                      <li class="list-group-item">
+        <span class="datetime pull-left"> 07:32 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282903/fc-twente-levert-zeven-spelers-af-aan-grootste-europese-competities"> &#039;FC Twente levert zeven spelers af aan grootste Europese competities&#039; </a>
+            </li>
 
-    <div id="dismiss">
-      <i class="fa fa-times" aria-hidden="true"></i>
-    </div>
 
-    <div class="sidebar-header p-4">
-      <img src="https://reach.jentcdn.net/assets/f1maximaal/image/f1maximaalv2.svg?c=1" alt="F1 Maximaal Nieuws">
-    </div>
 
-    <ul class="p-4">
-                      <li  class=" has_subnav" >
-          <a href="/f1-nieuws" >Nieuws</a>
-                      <a class="expand" href="#"></a>
-            <ul class="subnav">
-                          <li><a href="/max-verstappen" >Max Verstappen</a>
-                          <li><a href="/f1-nieuws" >Formule 1</a>
-                          <li><a href="/red-bull-racing" >Red Bull Racing</a>
-                          <li><a href="https://www.f1maximaal.nl/helmut-marko" >Helmut Marko</a>
-                          <li><a href="/christian-horner" >Christian Horner</a>
-                          <li><a href="/alexander-albon" >Alexander Albon</a>
-                          <li><a href="/gp-nederland" >GP Nederland</a>
-                          <li><a href="/rb16" >RB16</a>
-                        </ul>
-                    </li>
-                <li >
-          <a href="/stand-wk-formule-1" >WK Stand</a>
-                    </li>
-                <li >
-          <a href="/formule1-kalender" >Kalender</a>
-                    </li>
-                <li  class=" has_subnav" >
-          <a href="/formule-1-coureurs" >Coureurs</a>
-                      <a class="expand" href="#"></a>
-            <ul class="subnav">
-                          <li><a href="/sebastian-vettel" >Sebastian Vettel</a>
-                          <li><a href="/lewis-hamilton" >Lewis Hamilton</a>
-                          <li><a href="/alexander-albon" >Alexander Albon</a>
-                          <li><a href="/max-verstappen" >Max Verstappen</a>
-                          <li><a href="/charles-leclerc" >Charles Leclerc</a>
-                          <li><a href="/valtteri-bottas" >Valtteri Bottas</a>
-                          <li><a href="/daniel-ricciardo" >Daniel Ricciardo</a>
-                          <li><a href="/esteban-ocon" >Esteban Ocon</a>
-                          <li><a href="/kevin-magnussen" >Kevin Magnussen</a>
-                          <li><a href="/romain-grosjean" >Romain Grosjean</a>
-                          <li><a href="/sergio-perez" >Sergio Perez</a>
-                          <li><a href="/lance-stroll" >Lance Stroll</a>
-                          <li><a href="/carlos-sainz" >Carlos Sainz</a>
-                          <li><a href="/lando-norris" >Lando Norris</a>
-                          <li><a href="/daniil-kvyat" >Daniil Kvyat</a>
-                          <li><a href="/pierre-gasly" >Pierre Gasly</a>
-                          <li><a href="/kimi-raikkonen" >Kimi Raikkonen</a>
-                          <li><a href="/antonio-giovinazzi" >Antonio Giovinazzi</a>
-                          <li><a href="/george-russell" >George Russell</a>
-                          <li><a href="/nicholas-latifi" >Nicholas Latifi</a>
-                        </ul>
-                    </li>
-                <li  class=" has_subnav" >
-          <a href="/oud-coureurs" >Oud-coureurs</a>
-                      <a class="expand" href="#"></a>
-            <ul class="subnav">
-                          <li><a href="/michael-schumacher" >Michael Schumacher</a>
-                          <li><a href="https://www.f1maximaal.nl/jacques-villeneuve" >Jacques Villeneuve</a>
-                          <li><a href="/robert-doornbos" >Robert Doornbos</a>
-                          <li><a href="/jan-lammers" >Jan Lammers</a>
-                          <li><a href="/nico-rosberg" >Nico Rosberg</a>
-                          <li><a href="/martin-brundle" >Martin Brundle</a>
-                          <li><a href="/ayrton-senna" >Ayrton Senna</a>
-                          <li><a href="/giedo-van-der-garde" >Giedo van der Garde</a>
-                          <li><a href="/jos-verstappen" >Jos Verstappen</a>
-                        </ul>
-                    </li>
-                <li  class=" has_subnav" >
-          <a href="#" >GP's</a>
-                      <a class="expand" href="#"></a>
-            <ul class="subnav">
-                          <li><a href="/gp-abu-dhabi" >Grand Prix van Abu Dhabi</a>
-                          <li><a href="/gp-australie" >Grand Prix van Australië</a>
-                          <li><a href="/gp-bahrein" >Grand Prix van Bahrein</a>
-                          <li><a href="/gp-china" >Grand Prix van China</a>
-                          <li><a href="/gp-azerbeidzjan" >Grand Prix van Azerbeidzjan</a>
-                          <li><a href="/gp-spanje" >Grand Prix van Spanje</a>
-                          <li><a href="/gp-monaco" >Grand Prix van Monaco</a>
-                          <li><a href="/gp-canada" >Grand Prix van Canada</a>
-                          <li><a href="/gp-frankrijk" >Grand Prix van Frankrijk</a>
-                          <li><a href="/gp-oostenrijk" >Grand Prix van Oostenrijk</a>
-                          <li><a href="/gp-groot-brittannie" >Grand Prix van Groot-Brittannië</a>
-                          <li><a href="/gp-duitsland" >Grand Prix van Duitsland</a>
-                          <li><a href="/gp-hongarije" >Grand Prix van Hongarije</a>
-                          <li><a href="/gp-belgie" >Grand Prix van België</a>
-                          <li><a href="/gp-italie" >Grand Prix van Italië</a>
-                          <li><a href="/gp-singapore" >Grand Prix van Singapore</a>
-                          <li><a href="/gp-rusland" >Grand Prix van Rusland</a>
-                          <li><a href="/gp-japan" >Grand Prix van Japan</a>
-                          <li><a href="/gp-mexico" >Grand Prix van Mexico</a>
-                          <li><a href="/gp-verenigde-staten" >Grand Prix van Verenigde Staten</a>
-                          <li><a href="/gp-brazilie" >Grand Prix van Brazilië</a>
-                          <li><a href="/gp-nederland" >Grand Prix van Nederland</a>
-                          <li><a href="/gp-vietnam" >Grand Prix van Vietnam</a>
-                        </ul>
-                    </li>
-                <li  class=" has_subnav" >
-          <a href="/formule-1-teams" >Teams</a>
-                      <a class="expand" href="#"></a>
-            <ul class="subnav">
-                          <li><a href="/alfa-romeo" >Alfa Romeo</a>
-                          <li><a href="/alphatauri" >AlphaTauri</a>
-                          <li><a href="/red-bull-racing" >Red Bull Racing</a>
-                          <li><a href="/mercedes" >Mercedes AMG F1</a>
-                          <li><a href="/ferrari" >Scuderia Ferrari</a>
-                          <li><a href="/renault" >Renault</a>
-                          <li><a href="/mclaren" >McLaren</a>
-                          <li><a href="/racing-point" >Racing Point</a>
-                          <li><a href="/haas" >Haas</a>
-                          <li><a href="/williams" >Williams</a>
-                        </ul>
-                    </li>
-                <li >
-          <a href="/interview" >Interviews</a>
-                    </li>
-                <li >
-          <a href="https://www.fuelforfans.com/nl/nl/home/?utm_source=F1Maximaal&utm_medium=Affiliate&src=f1max"  target="_blank" >Shop</a>
-                    </li>
-                <li >
-          <a href="https://www.f1maximaal.nl/f1-tv" >F1 TV</a>
-                    </li>
-                <li >
-          <a href="https://www.awin1.com/cread.php?awinmid=8275&awinaffid=408273&clickref=&p=https%3A%2F%2Fwww.ziggo.nl%2Fpakketten"  target="_blank" >Kijk F1 met Ziggo</a>
-                    </li>
-                <li >
-          <a href="/contact" >Contact</a>
-                    </li>
-                <li >
-          <a href="/vacatures" >Vacatures</a>
-                    </li>
+
+                      <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is"> &#039;&#039;UEFA begint in te zien dat voetballen niet meer mogelijk is&#039;&#039; </a>
+       <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is#comments" class="comments pull-right">5</a>       </li>
+
+
+
+
+                      <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282898/arts-vanaf-1-juli-werkloos-het-tijdstip-was-dramatisch"> Arts vanaf 1 juli werkloos: &#039;&#039;Het tijdstip was dramatisch&#039;&#039; </a>
+       <a href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282898/arts-vanaf-1-juli-werkloos-het-tijdstip-was-dramatisch#comments" class="comments pull-right">1</a>       </li>
+
+
+
+
+                      <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen"> Oud-Twentenaar flirt met Besiktas: &#039;&#039;Iedereen wil voor zo&#039;n club spelen&#039;&#039; </a>
+       <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen#comments" class="comments pull-right">3</a>       </li>
+                </ul>
+        <div class="mads" style="margin-bottom:0;float:left;width:100%;"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Nieuw -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5360667507"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+        <ul class="list-group">
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/overige-elftallen/282914/roord-ziet-gevolgen-coronavirus-vanuit-die-hoek-is-het-stil"> Roord ziet gevolgen coronavirus: &#039;&#039;Vanuit die hoek is het stil&#039;&#039; </a>
+                      </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit"> Spitse: &#039;&#039;Een terugkeer naar Nederland sluit ik ook niet uit&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit#comments" class="comments pull-right">2</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282880/van-der-meyde-als-fan-zeg-ik-maak-het-gewoon-af-zonder-publiek"> Van der Meyde: &#039;&#039;Als fan zeg ik: maak het gewoon af zonder publiek&#039;&#039; </a>
+                      </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282846/verstandigste-geluid-nota-bene-van-een-voormalig-fc-twente-speler"> &#039;&#039;Verstandigste geluid nota bene van een voormalig FC Twente-speler&#039;&#039; </a>
+                      </li>
+
+            </ul>
+        <div class="dads" style="margin-bottom:0;float:left;width:100%;"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Nieuw -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5360667507"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+        <ul class="list-group">
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt"> &#039;&#039;Het is nog niet duidelijk waar de toekomst van Verdonk ligt&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt#comments" class="comments pull-right">6</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona"> &#039;Financi&euml;le klapper voor FC Twente bij transfer gewilde Corona&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona#comments" class="comments pull-right">57</a>           </li>
+
+
+            </ul>
+        <div class="mads" style="margin-bottom:0;float:left;width:100%;"> <div data-spklw-widget="widget-5c3db6275b87d"></div>
+ </div>
+        <ul class="list-group">
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282734/juridisch-directeur-fifa-de-transfermarkt-blijft-gesloten-op-1-juli"> Juridisch directeur FIFA: &#039;&#039;De transfermarkt blijft gesloten op 1 juli&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282734/juridisch-directeur-fifa-de-transfermarkt-blijft-gesloten-op-1-juli#comments" class="comments pull-right">3</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282748/verbeek-blijkbaar-weinig-last-van-corona-het-kan-allemaal"> Verbeek: &#039;&#039;Blijkbaar weinig last van corona, het kan allemaal&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282748/verbeek-blijkbaar-weinig-last-van-corona-het-kan-allemaal#comments" class="comments pull-right">2</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 13/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282743/zorgen-bij-kluitenberg-aanzienlijk-risico-voor-gezondheid-spelers"> Zorgen bij Kluitenberg: &#039;&#039;Aanzienlijk risico voor gezondheid spelers&#039;&#039; </a>
+                      </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 12/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282715/verbeek-baalt-dit-is-geen-manier-van-met-je-mensen-omgaan"> Verbeek baalt: &#039;&#039;Dit is geen manier van met je mensen omgaan&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282715/verbeek-baalt-dit-is-geen-manier-van-met-je-mensen-omgaan#comments" class="comments pull-right">4</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 12/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282708/voor-fc-twente-zal-het-beter-zijn-als-er-definitief-wordt-gestopt"> &#039;&#039;Voor FC Twente zal het beter zijn als er definitief wordt gestopt&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282708/voor-fc-twente-zal-het-beter-zijn-als-er-definitief-wordt-gestopt#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 12/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282702/ook-medici-pessimistisch-voetbal-zonder-publiek-is-niets-aan"> Ook medici pessimistisch: &#039;&#039;Voetbal zonder publiek is niets aan&#039;&#039; </a>
+                      </li>
+
+
                   </ul>
+        <div class="mads" style="margin-bottom:0;float:left;width:100%;">  </div>
+        <ul class="list-group">
 
-  </nav>
 
-  <div class="container">
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 12/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282687/verbeek-kritisch-op-coronabeleid-is-dat-dan-beter"> Verbeek kritisch op coronabeleid: &#039;&#039;Is dat dan beter?&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282687/verbeek-kritisch-op-coronabeleid-is-dat-dan-beter#comments" class="comments pull-right">11</a>           </li>
 
-    <header class="blog-header">
-      <div class="row flex-nowrap justify-content-between align-items-center">
-        <div class="col-8 pt-1">
-          <a href="#" class="hamburger" style="margin-top:-2px"><span></span><span></span><span></span><span></span></a>
-          <a href="/"><img alt="F1 Maximaal Nieuws" src="https://reach.jentcdn.net/assets/f1maximaal/image/f1maximaalv2.svg?c=1" style="height:55px;max-width:calc(100% - 40px);margin-left:10px;" /></a>
-        </div>
-        <div class="col-4 d-flex justify-content-end align-items-center">
-          <a class="text-muted js-toggle-search" href="#" aria-label="Search">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24" focusable="false"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"></circle><path d="M21 21l-5.2-5.2"></path></svg>
-          </a>
-          <div class="dropdown">
-            <button class="btn btn-default    dropdown-toggle "  type="button"  id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true"  aria-expanded="true" style="font-family:'Work Sans', sans-serif;text-transform:uppercase;font-size: 14px;font-weight: 600;background: #ff3c36;color:#FFF;border:0;">
-               <i class="fa fa-user-circle-o" aria-hidden="true"></i>                <span class="caret"></span>             </button>
-                          <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
-               <li><a href="/mijn/profiel" class="dropdown-item">Profiel</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="/api/v1/auth/logout" class="dropdown-item js-logout">Uitloggen (erik_bruinsma)</a></li>             </ul>
-                    </div>
-        </div>
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 11/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282578/onzekere-trainersstart-voor-van-wonderen-het-is-vreemd"> Onzekere trainersstart voor Van Wonderen: &#039;&#039;Het is vreemd&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/historie-oud-spelers/282578/onzekere-trainersstart-voor-van-wonderen-het-is-vreemd#comments" class="comments pull-right">8</a>           </li>
+
+
+                        </ul>
+        <div style="margin-bottom:0;float:left;width:100%;"> <div class="special_ads">
+<!-- START Next Day Media - VIDEOBLASTER - twentefans -->
+<div id="ndm_twentefans_videoblaster"><script type="text/javascript">VIDEOBLASTER.showTag('ndm_twentefans_videoblaster');</script></div>
+<!-- END Next Day Media - VIDEOBLASTER - twentefans -->
+</div>
+
+
+ </div>
+        <ul class="list-group">
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 11/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282563/derksen-hekelt-statement-middenmoters-en-knvb-het-is-lachwekkend"> Derksen hekelt statement middenmoters en KNVB: &#039;&#039;Het is lachwekkend&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282563/derksen-hekelt-statement-middenmoters-en-knvb-het-is-lachwekkend#comments" class="comments pull-right">7</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 11/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282530/de-groundsman-werkt-door-dit-is-de-drukste-periode-van-het-jaar"> De groundsman werkt door: &#039;&#039;Dit is de drukste periode van het jaar&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282530/de-groundsman-werkt-door-dit-is-de-drukste-periode-van-het-jaar#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/eerste-elftal/282513/niemeyer-als-technisch-manager-gebied-dat-mij-aanspreekt"> Niemeyer als technisch manager? &#039;&#039;Gebied dat mij aanspreekt&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/eerste-elftal/282513/niemeyer-als-technisch-manager-gebied-dat-mij-aanspreekt#comments" class="comments pull-right">94</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282451/we-willen-een-aantal-toptalenten-voor-langere-tijd-binden"> &#039;&#039;We willen een aantal toptalenten voor langere tijd binden&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282451/we-willen-een-aantal-toptalenten-voor-langere-tijd-binden#comments" class="comments pull-right">48</a>           </li>
+
+
+                              </ul>
+        <div class="mads" style="margin-bottom:0;float:left;width:100%;"> <!--
+<ul class="nav nav-pills" role="tablist" style="margin-top:15px;">
+      <li class="nav-item nav-50"  style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Partner</a>
+      </li>
+    </ul>
+<div style="background-color:#FFF"><iframe width="320px" height="383px" data-src="https://magazine.proshots.nl/index.html" frameborder="0" allowfullscreen="true"  allowtransparency="true" class="lozad"></iframe></div>
+-->
+ </div>
+        <ul class="list-group">
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282487/nieuwe-tussenstand-supportersactie-stortvoortwente-update"> Nieuwe tussenstand supportersactie #StortVoorTwente (update) </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282487/nieuwe-tussenstand-supportersactie-stortvoortwente-update#comments" class="comments pull-right">21</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282473/van-der-meyde-adviseert-knvb-ze-moeten-gewoon-stoppen-nu"> Van der Meyde adviseert KNVB: &#039;&#039;Ze moeten gewoon stoppen nu&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282473/van-der-meyde-adviseert-knvb-ze-moeten-gewoon-stoppen-nu#comments" class="comments pull-right">2</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282449/fc-twente-over-seizoenkaartenverkoop-we-zijn-druk-in-de-weer"> FC Twente over seizoenkaartenverkoop: &#039;&#039;We zijn druk in de weer&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282449/fc-twente-over-seizoenkaartenverkoop-we-zijn-druk-in-de-weer#comments" class="comments pull-right">70</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282447/van-der-kraan-hele-lastige-opgave-om-competitie-uit-te-spelen"> Van der Kraan: &#039;&#039;Hele lastige opgave om competitie uit te spelen&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282447/van-der-kraan-hele-lastige-opgave-om-competitie-uit-te-spelen#comments" class="comments pull-right">3</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282417/janssen-stoort-zich-hoe-kun-je-dat-als-voetballerij-vragen"> Janssen &#039;stoort zich&#039;: &#039;&#039;Hoe kun je dat als voetballerij vragen?&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282417/janssen-stoort-zich-hoe-kun-je-dat-als-voetballerij-vragen#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282333/el-ahmadi-zit-vast-in-saoedi-arabie-er-moet-iets-gebeuren"> El Ahmadi zit vast in Saoedi-Arabi&euml;: &#039;&#039;Er moet iets gebeuren&#039;&#039; </a>
+                      </li>
+
+
+
+            </ul>
+        <div class="dads" style="margin-bottom:0;float:left;width:100%;"> <div data-spklw-widget="widget-5c3db6275b87d"></div>
+ </div>
+        <ul class="list-group">
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 10/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282334/rutten-duidelijk-nooit-gezegd-dat-ik-dat-niet-meer-ambieer"> Rutten duidelijk: &#039;&#039;Nooit gezegd dat ik dat niet meer ambieer&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282334/rutten-duidelijk-nooit-gezegd-dat-ik-dat-niet-meer-ambieer#comments" class="comments pull-right">25</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282353/bizar-voorstel-iedereen-binnen-zijn-eigen-zone-op-het-veld"> Bizar voorstel: &#039;&#039;Iedereen binnen zijn eigen zone op het veld&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282353/bizar-voorstel-iedereen-binnen-zijn-eigen-zone-op-het-veld#comments" class="comments pull-right">7</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/eerste-elftal/282390/nakamura-mag-naar-japan-twee-seizoenen-achter-elkaar-gevoetbald"> Nakamura mag naar Japan: &#039;&#039;Twee seizoenen achter elkaar gevoetbald&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/eerste-elftal/282390/nakamura-mag-naar-japan-twee-seizoenen-achter-elkaar-gevoetbald#comments" class="comments pull-right">11</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/sfeer-supporters/282324/voor-de-meeste-fans-hoeft-het-dan-niet-meer-de-lol-is-er-af"> &#039;&#039;Voor de meeste fans hoeft het dan niet meer, de lol is er af&#039;&#039; </a>
+                      </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282216/cairo-herkent-situatie-ik-werd-ook-weleens-uitgefloten-in-enschede"> Cairo herkent situatie: &#039;&#039;Ik werd ook weleens uitgefloten in Enschede&#039;&#039; </a>
+                      </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282301/derksen-haalt-uit-moeten-we-naar-die-patjepeeers-luisteren"> Derksen haalt uit: &#039;&#039;Moeten we naar die patjepee&euml;rs luisteren?&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282301/derksen-haalt-uit-moeten-we-naar-die-patjepeeers-luisteren#comments" class="comments pull-right">5</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/historie-oud-spelers/281933/oud-voorzitter-fc-twente-triest-om-te-zien-waar-we-nu-staan"> Oud-voorzitter FC Twente: &#039;&#039;Triest om te zien waar we nu staan&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/historie-oud-spelers/281933/oud-voorzitter-fc-twente-triest-om-te-zien-waar-we-nu-staan#comments" class="comments pull-right">9</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282339/mulder-beseft-dat-doen-de-clubs-niet-om-geld-te-verdienen"> Mulder beseft: &#039;&#039;Dat doen de clubs niet om geld te verdienen&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282339/mulder-beseft-dat-doen-de-clubs-niet-om-geld-te-verdienen#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282280/als-club-accepteren-dat-stadion-slechts-10-procent-gevuld-is"> &#039;&#039;Als club accepteren dat stadion slechts 10 procent gevuld is&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282280/als-club-accepteren-dat-stadion-slechts-10-procent-gevuld-is#comments" class="comments pull-right">22</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282300/ifab-voert-wijzigingen-door-spelregel-aanvallend-hands-aangepast"> IFAB voert wijzigingen door: spelregel &#039;aanvallend hands&#039; aangepast </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282300/ifab-voert-wijzigingen-door-spelregel-aanvallend-hands-aangepast#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+            </ul>
+        <div style="margin-bottom:0;float:left;width:100%;"> <script src="//player.performgroup.com/eplayer.js#0366e29d874b3e73ed0c088308.uh10930vm6411330xtfcd6egf" async></script>
+ </div>
+        <ul class="list-group">
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282275/abrupt-einde-voor-verhaegh-heel-vervelend-voor-de-supporters"> &#039;Abrupt einde&#039; voor Verhaegh: &#039;&#039;Heel vervelend voor de supporters&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282275/abrupt-einde-voor-verhaegh-heel-vervelend-voor-de-supporters#comments" class="comments pull-right">15</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282235/burgemeesters-adviseren-knvb-kan-hele-competitie-op-zn-kop-zetten"> Burgemeesters adviseren KNVB: &#039;&#039;Kan hele competitie op z&#039;n kop zetten&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282235/burgemeesters-adviseren-knvb-kan-hele-competitie-op-zn-kop-zetten#comments" class="comments pull-right">2</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/281923/rutten-heeft-in-2003-de-laatste-prijs-gepakt-met-een-kraslot"> &#039;&#039;Rutten heeft in 2003 de laatste prijs gepakt met een kraslot&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/281923/rutten-heeft-in-2003-de-laatste-prijs-gepakt-met-een-kraslot#comments" class="comments pull-right">12</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282243/el-ahmadi-transfervrij-weg-uit-saoedi-arabie-fc-twente-wie-weet"> El Ahmadi transfervrij weg uit Saoedi-Arabi&euml;: &#039;&#039;FC Twente? Wie weet&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282243/el-ahmadi-transfervrij-weg-uit-saoedi-arabie-fc-twente-wie-weet#comments" class="comments pull-right">15</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 09/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/281931/merkte-toen-ik-terugkwam-al-dat-fc-twente-leeggeroofd-was"> &#039;&#039;Merkte toen ik terugkwam al dat FC Twente leeggeroofd was&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/281931/merkte-toen-ik-terugkwam-al-dat-fc-twente-leeggeroofd-was#comments" class="comments pull-right">4</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 08/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/overige-elftallen/282221/zit-niet-meer-in-de-fase-dat-ik-mannen-en-vrouwenvoetbal-vergelijk"> &#039;&#039;Zit niet meer in de fase dat ik mannen- en vrouwenvoetbal vergelijk&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/overige-elftallen/282221/zit-niet-meer-in-de-fase-dat-ik-mannen-en-vrouwenvoetbal-vergelijk#comments" class="comments pull-right">1</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 08/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/sfeer-supporters/282219/video-vet-fc-twente-fan-bouwt-grolsch-veste-na-op-minecraft"> VIDEO | Vet! FC Twente-fan bouwt Grolsch Veste na op Minecraft </a>
+             <a href="https://www.twentefans.nl/nieuws/sfeer-supporters/282219/video-vet-fc-twente-fan-bouwt-grolsch-veste-na-op-minecraft#comments" class="comments pull-right">7</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 08/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282215/zon-bosch-of-roemeratoe-daar-geniet-je-intens-van-prachtig"> &#039;&#039;Zo&#039;n Bosch of Roemeratoe, daar geniet je intens van. Prachtig&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282215/zon-bosch-of-roemeratoe-daar-geniet-je-intens-van-prachtig#comments" class="comments pull-right">3</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 08/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282113/tachtig-procent-heeft-net-wat-meer-dan-een-modaal-salaris"> &#039;&#039;Tachtig procent heeft net wat meer dan een modaal salaris&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282113/tachtig-procent-heeft-net-wat-meer-dan-een-modaal-salaris#comments" class="comments pull-right">4</a>           </li>
+
+
+
+
+                                  <li class="list-group-item">
+            <span class="datetime pull-left"> 08/04 </span>
+            <a class="title pull-left" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282173/van-oosterhout-reeel-dat-gaat-de-clubs-heel-veel-pijn-doen"> Van Oosterhout re&euml;el: &#039;&#039;Dat gaat de clubs heel veel pijn doen&#039;&#039; </a>
+             <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282173/van-oosterhout-reeel-dat-gaat-de-clubs-heel-veel-pijn-doen#comments" class="comments pull-right">6</a>           </li>
+
+
+
+
+            </ul>
+
+
+<ul class="list-group col-xs-12">
+  <li class="list-group-item col-xs-12" style="text-align:center;">
+    <a href="/nieuws/" class="btn btn-outline-danger">Lees meer ›</a>
+  </li>
+</ul>
+</div>
+<div class="tab-pane fade" id="video_list" role="tabpanel" aria-labelledby="profile-tab">
+  <ul class="list-group" id="mlatest" style="padding-top:0;">
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282786/johan-haalt-uit-naar-betaald-voetbal-het-is-lachwekkend"> Johan haalt uit naar betaald voetbal: &quot;Het is lachwekkend&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282782/het-is-niet-reeel-om-in-juni-weer-te-gaan-voetballen"> &quot;Het is niet re&euml;el om in juni weer te gaan voetballen&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 13/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282810/sfeeracties-fc-twente-2019-2020"> Sfeeracties FC Twente 2019 - 2020 </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 10/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282427/andy-geeft-rondleiding-door-huis-mijn-vrouw-ligt-boven-met-twee-negers"> Andy geeft rondleiding door huis: &quot;Mijn vrouw ligt boven met twee negers&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 09/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282331/time-out-tegen-pesten"> Time Out Tegen Pesten </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 08/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/282191/het-kwartje-valt-maar-niet-bij-de-knvb"> &quot;Het kwartje valt maar niet bij de KNVB&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 07/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281972/fc-twente-moet-inleveren-op-tv-geldenranglijst"> &#039;FC Twente moet inleveren op tv-geldenranglijst&#039; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 06/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281799/facetimen-met-queensy-menig"> Facetimen met Queensy Menig </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 06/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281693/voetbaltijd-met-arjan-steenkamp"> VoetbalTijd met Arjan Steenkamp </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 06/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281674/iedereen-is-bang-voor-ordinair-chanterende-uefa"> &quot;Iedereen is bang voor ordinair chanterende UEFA&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 03/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281282/full-game-fc-twente-psv-02-04-2011"> FULL GAME | FC Twente - PSV (02-04-2011) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 02/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/281027/enorme-roofbouw-op-spelers-door-besluit-uefa"> &quot;Enorme roofbouw op spelers door besluit UEFA&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 01/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280826/full-game-fc-twente-ajax-10-05-2008"> FULL GAME | FC Twente - Ajax (10-05-2008) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 01/04 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280834/kabinet-verlengt-coronamaatregelen-met-3-weken"> Kabinet verlengt coronamaatregelen met 3 weken </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 31/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280669/primeur-ing-stelt-noodfonds-voor-clubs-beschikbaar"> Primeur: &#039;ING stelt noodfonds voor clubs beschikbaar&#039; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 31/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280621/verbeek-zit-zonder-inkomen-vast-in-australie"> Verbeek zit zonder inkomen vast in Australi&euml; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 30/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280419/valentijn-tegen-voortzetting-competitie-dat-kan-je-toch-niet-maken"> Valentijn tegen voortzetting competitie: &quot;Dat kan je toch niet maken?&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 30/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/280411/full-game-fc-twente-fc-groningen-12-11-2006"> FULL GAME | FC Twente - FC Groningen (12-11-2006) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 25/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279790/full-game-nac-fc-twente-02-05-2010"> FULL GAME | NAC - FC Twente (02-05-2010) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 24/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279485/videoboodschap-bijen-nu-klappen-wij-voor-jullie"> Videoboodschap Bijen: &quot;Nu klappen wij voor jullie&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 24/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279459/dit-is-het-noodscenario-van-de-eredivisie"> Dit is het noodscenario van de Eredivisie </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 23/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279468/full-game-fc-twente-feyenoord-30-01-2011"> FULL GAME | FC Twente - Feyenoord (30-01-2011) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 21/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279554/een-openhartig-gesprek-met-remko-en-eddie-pasveer"> Een openhartig gesprek met Remko en Eddie Pasveer </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 20/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279560/woerts-de-klap-voor-de-clubs-komt-pas-volgend-jaar"> Woerts: &quot;De klap voor de clubs komt pas volgend jaar&quot; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 20/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279565/throwback-psv-fc-twente-04-03-2012"> THROWBACK | PSV - FC Twente (04-03-2012) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 19/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279575/throwback-ajax-fc-twente-19-03-2000"> THROWBACK | Ajax - FC Twente (19-03-2000) </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 18/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/279580/hooiveld-over-nominatie-van-ronaldo"> Hooiveld over &#039;nominatie van Ronaldo&#039; </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 12/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/277649/noa-lang-bij-andy-van-der-meyde-in-de-auto"> Noa Lang - Bij Andy van der Meyde in de auto  </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 11/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/277474/de-grolsch-veste-de-nieuwe-skybox-van-kick-eddy"> De Grolsch Veste: de nieuwe skybox van Kick &amp; Eddy </a>
+            </li>
+          <li class="list-group-item">
+        <span class="datetime pull-left"> 09/03 </span>
+        <a class="title pull-left" href="https://www.twentefans.nl/nieuws/videos/277056/samenvatting-vitesse-fc-twente"> Samenvatting Vitesse - FC Twente </a>
+            </li>
+      </ul>
+
+</div>
+
+</div>
+</div>
+
+<div style="clear:both;margin-bottom:10px;"></div>
+      <div class="dads"> <div style="clear:both;"></div>
+<ul class="nav nav-pills" id="js-latest-most" role="tablist">
+      <li class="nav-item nav-50" style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Onze partners</a>
+      </li>
+    </ul>
+
+<div class="tab-content tab-news-list" style="overflow:hidden;margin-bottom:10px;background-color:#FFF;">
+      <div class="tab-pane active most_read_block" id="mpopular" role="tabpanel" style="text-align:center;">
+<a href="https://www.casinotechnieken.nl" target="_blank" style="color:#a10000;">casinotechnieken.nl</a><br />
+<a href="http://www.superbigwin.nu/de-beste-casino-bonussen/" target="_blank" style="color:#a10000;">Online casino bonussen</a><br />
+<a href="https://www.voetbalwedden.net/bookmakers" target="_blank" style="color:#a10000;">Betrouwbare bookmakers</a><br />
+<a href="https://www.casinojager.nl" target="_blank" style="color:#a10000;">CasinoJager.nl</a><br />
+<a href="https://casinovergelijker.net" target="_blank" style="color:#a10000;">Online Casino Vergelijker</a><br />
+<a href="https://onlinecasinofortuna.com" target="_blank" style="color:#a10000;">onlinecasinofortuna.com</a><br />
+<a href="https://www.casinosnederland.com" target="_blank" style="color:#a10000;">online casino</a><br />
+<a href="https://www.gokgids.nl/online-casino/" target="_blank" style="color:#a10000;">Gokken in een online casino</a><br />
+<a href="https://www.onlineroulettespin.com" target="_blank" style="color:#a10000;">online roulette spin</a><br />
+<a href="https://www.onlineroulettespin.com/online-goksites" target="_blank" style="color:#a10000;">onlineroulettespin.com</a><br />
+<a href="https://onlinecasino360.nl/" target="_blank" style="color:#a10000;">Onlinecasino360.nl</a><br />
+<a href="http://www.onlinecasinogokken.net/" target="_blank" style="color:#a10000;">Casino gids voor online gokken</a><br />
+<a href="https://www.top10casinosites.nl/casino-spelletjes" target="_blank" style="color:#a10000;">Online Casino spelletjes</a><br />
+<a href="https://www.casinosites.nl" target="_blank" style="color:#a10000;">casinosites.nl</a><br />
+<a href="https://www.onlinegoksites.nl/online-casinos/" target="_blank" style="color:#a10000;">beste online casino</a><br />
+<a href="https://www.weddenbonus.com/" target="_blank" style="color:#a10000;">weddenbonus.com</a><br />
+<a href="https://www.fit.nl/" target="_blank" style="color:#a10000;">FIT.nl: voor een gezondere levensstijl </a><br />
+<a href="https://www.oranje.casino/" target="_blank" style="color:#a10000;">oranje.casino site</a><br />
+<a href="https://onlinecasinoinformatie.com/casino-bonussen/" target="_blank" style="color:#a10000;">Beste Casino Bonus</a><br />
+<a href="https://www.onlinecasinoxl.nl" target="_blank" style="color:#a10000;">Online Casino XL</a><br />
+<a href="https://www.casinonline.news" target="_blank" style="color:#a10000;">Casino Online</a><br />
       </div>
-    </header>
-
-    <div id="mvp-nav-main">
-      <nav id="mvp-nav-menu">
-        <div class="menu-main-menu-container">
-          <ul id="menu-main-menu-1" class="menu">
-                                              <li  class="menu-item"><a href="/max-verstappen" >Verstappen</a></li>
-                                <li  class="menu-item"><a href="/formule-1" >Formule 1</a></li>
-                                <li  class="menu-item"><a href="/red-bull-racing" >Red Bull Racing</a></li>
-                                <li  class="menu-item"><a href="/formule1-kalender" >F1 kalender</a></li>
-                                <li  class="menu-item"><a href="https://www.awin1.com/cread.php?awinmid=8275&awinaffid=408273&clickref=&p=https%3A%2F%2Fwww.ziggo.nl%2Fpakketten"  target="_blank" >Kijk F1 met Ziggo</a></li>
-                                <li  class="menu-item"><a href="https://www.fuelforfans.com/nl/nl/home/?utm_source=F1Maximaal&utm_medium=Affiliate&src=f1max"  target="_blank" >Shop</a></li>
-                                <li  class="menu-item"><a href="/interview" >Interviews</a></li>
-                                <li  class="menu-item"><a href="/simrace-kalender" >Simrace kalender</a></li>
-                                        </ul>
-        </div>
-      </nav>
-      <nav class="submenu" style="display:none;">
-                              <ul class="menu submenu_2" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_4" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_464" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_6" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_31" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_110" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_475" style="display:none;">
-                        </ul>
-                      <ul class="menu submenu_627" style="display:none;">
-                        </ul>
-                        </nav>
     </div>
 
-  </div>
 
 
-  <div class="container mt-4"><div style="text-align:center;margin-top:10px;margin-bottom:10px;">
-<!-- /1030791/F1Max_Phone_Home_Header_ATF -->
 
-</div></div>
-<main role="main">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="featurette mt-4" style="border-bottom: 1px solid #ddd;overflow:hidden;">
-
-                                    <div class="mvp-feat2-main float-left position-relative">
-                <a href="https://www.f1maximaal.nl/formule-1/282644/simrace-live-1900-uur-race-for-the-world-met-leclerc-norris-en-albon" rel="bookmark">
-                  <div class="mvp-feat2-main-img left relative">
-                                        <img width="995" height="500" src="https://reach.jentcdn.net/media/624/shared/cf83e/fm/194/140708_19463babe0b41b59d6062dc60c078c61.jpg" class="mvp-reg-img wp-post-image mvp-mob-img" alt="Simrace Live 19.00 uur | Race For The World met Leclerc, Norris en Albon" style="display:block !important;max-width:100%;height:auto;"
-                    />                   </div>
-                  <div class="mvp-feat2-main-text">
-                    <div class="mvp-feat2-main-cat left"><span class="mvp-feat2-main-cat left">Formule 1</span></div>
-                    <div class="mvp-feat2-main-title left relative">
-                      <h2 class="mvp-stand-title">Simrace Live 19.00 uur | Race For The World met Leclerc, Norris en Albon</h2>
-                    </div>
-                    <div class="mvp-feat1-info">
-                      <span class="mvp-blog-author">Door Rick Pasker</span><span class="mvp-blog-date"><i class="fa fa-clock-o"></i><span class="mvp-blog-time">11 april 2020</span></span>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-                                    <div class="mvp-feat2-sub float-left position-relative">
-                <a href="https://www.f1maximaal.nl/formule-1/282647/simrace-live-1800-uur-the-race-all-star-series-met-villeneuve-button-en-fittipaldi" rel="bookmark">
-                  <div class="mvp-feat2-sub-img left relative">
-                                        <img width="400" height="240" src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/4d5/142405_4d5250676fbce73d3521afb7fb036579.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Simrace Live 18.00 uur | The Race All-Star Series met Villeneuve, Button en Fittipaldi" />
-                                    </div>
-                </a>
-                <div class="mvp-feat2-sub-text-before float-left position-relative">
-                  <div class="mvp-feat2-sub-text">
-                    <div class="mvp-feat2-sub-cat"><span class="mvp-feat2-sub-cat">Formule 1</span></div>
-                    <a href="https://www.f1maximaal.nl/formule-1/282647/simrace-live-1800-uur-the-race-all-star-series-met-villeneuve-button-en-fittipaldi" rel="bookmark"><h2>Simrace Live 18.00 uur | The Race All-Star Series met Villeneuve, Button en Fittipaldi</h2></a>
-                    <div class="mvp-feat1-info">
-                      <span class="mvp-blog-author">Door Rick Pasker</span><span class="mvp-blog-date"><i class="fa fa-clock-o"></i><span class="mvp-blog-time">11 april 2020 | 17:34</span></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-      				              <div class="mvp-feat2-sub float-left position-relative">
-                <a href="https://www.f1maximaal.nl/formule-1/282635/verstappen-laat-norris-f1-2019-verwijderen-lijkt-teveel-op-een-arcadespel" rel="bookmark">
-                  <div class="mvp-feat2-sub-img left relative">
-                                        <img width="400" height="240" src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/063/136547_063448cef3e47e3ac2f6c60081128e15.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Verstappen laat Norris F1 2019 verwijderen: &#039;Lijkt teveel op een arcadespel&#039;" />
-                                    </div>
-                </a>
-                <div class="mvp-feat2-sub-text-before float-left position-relative">
-                  <div class="mvp-feat2-sub-text">
-                    <div class="mvp-feat2-sub-cat"><span class="mvp-feat2-sub-cat">Formule 1</span></div>
-                    <a href="https://www.f1maximaal.nl/formule-1/282635/verstappen-laat-norris-f1-2019-verwijderen-lijkt-teveel-op-een-arcadespel" rel="bookmark"><h2>Verstappen laat Norris F1 2019 verwijderen: &#039;Lijkt teveel op een arcadespel&#039;</h2></a>
-                    <div class="mvp-feat1-info">
-                      <span class="mvp-blog-author">Door Rick Pasker</span><span class="mvp-blog-date"><i class="fa fa-clock-o"></i><span class="mvp-blog-time">11 april 2020 | 15:52</span></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-        </div>
-      </div>
+ </div>
     </div>
-  </div>
-
-  <div class="container mt-3 mb-3">
-    <!-- /1030791/F1Max_Phone_Home_Header_ATF -->
+  <div class="body-right">
 
 
-<!-- /1030791/F1Max_ROS_Header_ATF -->
 
+    <ul class="nav nav-pills" id="js-latest-most" role="tablist" style="background-color:#FFF;">
 
-  </div>
+      <div class="dads"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Medium rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7092928456189929"
+     data-ad-slot="5715616743"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
 
-  <div class="container">
-    <div class="d-lg-flex flex-lg-row ">
-      <div  class="mt-4 pr-sm-0 pr-lg-4" style="min-width:calc(100% - 336px)">
+      <li class="nav-item nav-50"  style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Meest gelezen</a>
+      </li>
+    </ul>
+    <div class="tab-content tab-news-list" style="overflow:hidden;margin-bottom:10px;">
+      <div class="tab-pane active most_read_block mrb_js" id="mpopular" role="tabpanel">
+        <ul class="list-group">
+                    <li class="list-group-item">
+            <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona" title="&#039;Financi&euml;le klapper voor FC Twente bij transfer gewilde Corona&#039;" class="pull-right popular-title">
+                          <img class="media-object pull-left mr-1 rounded lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/75b/142094_75b5f82b147bab49ba90fa892f22eae9.jpg" width="100%"  alt="'Financiële klapper voor FC Twente bij transfer gewilde Corona'">
+                        <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;">1</span>
+            </a>
 
-        <ul class="nav nav-pills justify-content-end" id="myTab" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" id="news" data-toggle="tab" href="#main-news" role="tab" aria-controls="News" aria-selected="true"><i class="fa fa-clock-o"></i> Laatste nieuws</a>
+            <a style="width:calc(100% - 100px);float:left;margin-left:10px;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona" title="&#039;Financi&euml;le klapper voor FC Twente bij transfer gewilde Corona&#039;" class="pull-right popular-title">&#039;Financi&euml;le klapper voor FC Twente bij transfer gewilde Corona&#039;</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" id="videos" data-toggle="tab" href="#main-videos" role="tab" aria-controls="Video's" aria-selected="false"><i class="fa fa-play-circle"></i> Video's</a>
+                    <li class="list-group-item">
+            <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen" title="Oud-Twentenaar flirt met Besiktas: &#039;&#039;Iedereen wil voor zo&#039;n club spelen&#039;&#039;" class="pull-right popular-title">
+                          <img class="media-object pull-left mr-1 rounded lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/9b6/115967_9b6ab0dadee43076634fccb18ee8b092.jpg" width="100%"  alt="Oud-Twentenaar flirt met Besiktas: ''Iedereen wil voor zo'n club spelen''">
+                        <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;">2</span>
+            </a>
+
+            <a style="width:calc(100% - 100px);float:left;margin-left:10px;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen" title="Oud-Twentenaar flirt met Besiktas: &#039;&#039;Iedereen wil voor zo&#039;n club spelen&#039;&#039;" class="pull-right popular-title">Oud-Twentenaar flirt met Besiktas: &#039;&#039;Iedereen wil voor zo&#039;n club spelen&#039;&#039;</a>
           </li>
+                    <li class="list-group-item">
+            <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt" title="&#039;&#039;Het is nog niet duidelijk waar de toekomst van Verdonk ligt&#039;&#039;" class="pull-right popular-title">
+                          <img class="media-object pull-left mr-1 rounded lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/1b9/140573_1b9408ba527951f572028a4deef888b7.jpg" width="100%"  alt="''Het is nog niet duidelijk waar de toekomst van Verdonk ligt''">
+                        <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;">3</span>
+            </a>
+
+            <a style="width:calc(100% - 100px);float:left;margin-left:10px;" href="https://www.twentefans.nl/nieuws/transfers-geruchten/282830/het-is-nog-niet-duidelijk-waar-de-toekomst-van-verdonk-ligt" title="&#039;&#039;Het is nog niet duidelijk waar de toekomst van Verdonk ligt&#039;&#039;" class="pull-right popular-title">&#039;&#039;Het is nog niet duidelijk waar de toekomst van Verdonk ligt&#039;&#039;</a>
+          </li>
+                    <li class="list-group-item">
+            <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is" title="&#039;&#039;UEFA begint in te zien dat voetballen niet meer mogelijk is&#039;&#039;" class="pull-right popular-title">
+                          <img class="media-object pull-left mr-1 rounded lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/fbe/141755_fbef0165da3d1aeef4c5743f8c3d8755.jpg" width="100%"  alt="''UEFA begint in te zien dat voetballen niet meer mogelijk is''">
+                        <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;">4</span>
+            </a>
+
+            <a style="width:calc(100% - 100px);float:left;margin-left:10px;" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is" title="&#039;&#039;UEFA begint in te zien dat voetballen niet meer mogelijk is&#039;&#039;" class="pull-right popular-title">&#039;&#039;UEFA begint in te zien dat voetballen niet meer mogelijk is&#039;&#039;</a>
+          </li>
+                    <li class="list-group-item">
+            <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282846/verstandigste-geluid-nota-bene-van-een-voormalig-fc-twente-speler" title="&#039;&#039;Verstandigste geluid nota bene van een voormalig FC Twente-speler&#039;&#039;" class="pull-right popular-title">
+                          <img class="media-object pull-left mr-1 rounded lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/077/133209_0773a4b3920fbfb353e399cead1f71c6.jpg" width="100%"  alt="''Verstandigste geluid nota bene van een voormalig FC Twente-speler''">
+                        <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;">5</span>
+            </a>
+
+            <a style="width:calc(100% - 100px);float:left;margin-left:10px;" href="https://www.twentefans.nl/nieuws/hoofdnieuws/282846/verstandigste-geluid-nota-bene-van-een-voormalig-fc-twente-speler" title="&#039;&#039;Verstandigste geluid nota bene van een voormalig FC Twente-speler&#039;&#039;" class="pull-right popular-title">&#039;&#039;Verstandigste geluid nota bene van een voormalig FC Twente-speler&#039;&#039;</a>
+          </li>
+
         </ul>
 
-        <div class="tab-content" id="mvp-tab-col1">
-          <div class="tab-pane fade show active" id="main-news" role="tabpanel" aria-labelledby="Nieuws">
-            <ul class="list-unstyled mt-1">
-                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/278223/f1-en-coronavirus-haas-stuurt-meerderheid-personeel-op-verlof" class="text-dark" title="F1 en coronavirus | &#039;Haas stuurt meerderheid personeel op verlof&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/675/141441_675701e9fd4497a4de70ed3d00864f25.jpg" class="lozad mr-3" alt="F1 en coronavirus | &#039;Haas stuurt meerderheid personeel op verlof&#039;" width="300" height="200"  alt="F1 en coronavirus | &#039;Haas stuurt meerderheid personeel op verlof&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/278223/f1-en-coronavirus-haas-stuurt-meerderheid-personeel-op-verlof" class="text-dark" title="F1 en coronavirus | &#039;Haas stuurt meerderheid personeel op verlof&#039;"><h5 class="my-2">F1 en coronavirus | &#039;Haas stuurt meerderheid personeel op verlof&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Rick Pasker <i class="fa fa-clock-o"></i> 11 april 2020 | 17:43</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282642/rosberg-over-duel-met-verstappen-mijn-voet-beefde-op-het-gaspedaal" class="text-dark" title="Rosberg over duel met Verstappen: &#039;Mijn voet beefde op het gaspedaal&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/29a/124583_29a6bbddf2ee9b78a049eaf6537be036.jpg" class="lozad mr-3" alt="Rosberg over duel met Verstappen: &#039;Mijn voet beefde op het gaspedaal&#039;" width="300" height="200"  alt="Rosberg over duel met Verstappen: &#039;Mijn voet beefde op het gaspedaal&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282642/rosberg-over-duel-met-verstappen-mijn-voet-beefde-op-het-gaspedaal" class="text-dark" title="Rosberg over duel met Verstappen: &#039;Mijn voet beefde op het gaspedaal&#039;"><h5 class="my-2">Rosberg over duel met Verstappen: &#039;Mijn voet beefde op het gaspedaal&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Rick Pasker <i class="fa fa-clock-o"></i> 11 april 2020 | 16:27</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/algemeen/282641/advertorial-profiteer-nu-van-de-lente-sale-bij-fuel-for-fans" class="text-dark" title="Advertorial: Profiteer nu van de lente sale bij Fuel For Fans!">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/c26/141653_c26f6c5eec2c15a88277cc34b0b225aa.jpg" class="lozad mr-3" alt="Advertorial: Profiteer nu van de lente sale bij Fuel For Fans!" width="300" height="200"  alt="Advertorial: Profiteer nu van de lente sale bij Fuel For Fans!">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Algemeen</small>
-                    <a href="https://www.f1maximaal.nl/algemeen/282641/advertorial-profiteer-nu-van-de-lente-sale-bij-fuel-for-fans" class="text-dark" title="Advertorial: Profiteer nu van de lente sale bij Fuel For Fans!"><h5 class="my-2">Advertorial: Profiteer nu van de lente sale bij Fuel For Fans!</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Niels Opdam <i class="fa fa-clock-o"></i> 11 april 2020 | 16:15</small>
-                  </div>
-                </li>
-                                                                <li style="margin:5px 0;text-align:center;"><!-- /1030791/F1Max_ROS_Inarticte_VBA -->
-</li>
-                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/280674/ondertussen-in-de-f1-hamilton-niet-meer-welkom-bij-zijn-kapper" class="text-dark" title="Ondertussen in de F1 | Hamilton niet meer welkom bij zijn kapper">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/b55/140591_b554fa352afa6b2055546bdb7a0c0032.jpg" class="lozad mr-3" alt="Ondertussen in de F1 | Hamilton niet meer welkom bij zijn kapper" width="300" height="200"  alt="Ondertussen in de F1 | Hamilton niet meer welkom bij zijn kapper">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/280674/ondertussen-in-de-f1-hamilton-niet-meer-welkom-bij-zijn-kapper" class="text-dark" title="Ondertussen in de F1 | Hamilton niet meer welkom bij zijn kapper"><h5 class="my-2">Ondertussen in de F1 | Hamilton niet meer welkom bij zijn kapper</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Rick Pasker <i class="fa fa-clock-o"></i> 11 april 2020 | 16:06</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/videos/282623/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-garde" class="text-dark" title="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde">
-                                        <img data-src="//img.youtube.com/vi/dvWTVEJKi-c/0.jpg" class="lozad mr-3" alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde" width="300" height="200"  alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                    <a href="https://www.f1maximaal.nl/videos/282623/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-garde" class="text-dark" title="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde"><h5 class="my-2">Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 14:34</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282620/seizoen-begint-met-dubbele-race-in-oostenrijk-goed-nieuws-voor-verstappen" class="text-dark" title="&#039;Seizoen begint met dubbele race in Oostenrijk, goed nieuws voor Verstappen&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/152/129517_15240a34cdbf427618eeed92169c2686.jpg" class="lozad mr-3" alt="&#039;Seizoen begint met dubbele race in Oostenrijk, goed nieuws voor Verstappen&#039;" width="300" height="200"  alt="&#039;Seizoen begint met dubbele race in Oostenrijk, goed nieuws voor Verstappen&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282620/seizoen-begint-met-dubbele-race-in-oostenrijk-goed-nieuws-voor-verstappen" class="text-dark" title="&#039;Seizoen begint met dubbele race in Oostenrijk, goed nieuws voor Verstappen&#039;"><h5 class="my-2">&#039;Seizoen begint met dubbele race in Oostenrijk, goed nieuws voor Verstappen&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 14:11</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282595/geruchten-over-exit-wolff-bij-mercedes-tegengesproken-we-zijn-in-gesprek" class="text-dark" title="Geruchten over exit Wolff bij Mercedes tegengesproken: &#039;We zijn in gesprek&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/4af/141240_4af59bfb559375ca86870b90a1f2130b.jpg" class="lozad mr-3" alt="Geruchten over exit Wolff bij Mercedes tegengesproken: &#039;We zijn in gesprek&#039;" width="300" height="200"  alt="Geruchten over exit Wolff bij Mercedes tegengesproken: &#039;We zijn in gesprek&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282595/geruchten-over-exit-wolff-bij-mercedes-tegengesproken-we-zijn-in-gesprek" class="text-dark" title="Geruchten over exit Wolff bij Mercedes tegengesproken: &#039;We zijn in gesprek&#039;"><h5 class="my-2">Geruchten over exit Wolff bij Mercedes tegengesproken: &#039;We zijn in gesprek&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 11:54</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282588/zandvoort-zonder-publiek-dat-zou-in-nederland-uitgesloten-zijn" class="text-dark" title="Zandvoort zonder publiek? &#039;Dat zou in Nederland uitgesloten zijn&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/ac9/142608_ac9c539f0d6cd9894985e2a22b9a03f5.jpg" class="lozad mr-3" alt="Zandvoort zonder publiek? &#039;Dat zou in Nederland uitgesloten zijn&#039;" width="300" height="200"  alt="Zandvoort zonder publiek? &#039;Dat zou in Nederland uitgesloten zijn&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282588/zandvoort-zonder-publiek-dat-zou-in-nederland-uitgesloten-zijn" class="text-dark" title="Zandvoort zonder publiek? &#039;Dat zou in Nederland uitgesloten zijn&#039;"><h5 class="my-2">Zandvoort zonder publiek? &#039;Dat zou in Nederland uitgesloten zijn&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 11:17</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282573/als-albon-zo-goed-als-verstappen-was-dan-had-hij-dat-al-laten-zien" class="text-dark" title="&#039;Als Albon zo goed als Verstappen was, dan had hij dat al laten zien&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/895/142605_89513aa615b8d01982c7fbed6d20fa51.jpg" class="lozad mr-3" alt="&#039;Als Albon zo goed als Verstappen was, dan had hij dat al laten zien&#039;" width="300" height="200"  alt="&#039;Als Albon zo goed als Verstappen was, dan had hij dat al laten zien&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282573/als-albon-zo-goed-als-verstappen-was-dan-had-hij-dat-al-laten-zien" class="text-dark" title="&#039;Als Albon zo goed als Verstappen was, dan had hij dat al laten zien&#039;"><h5 class="my-2">&#039;Als Albon zo goed als Verstappen was, dan had hij dat al laten zien&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 10:06</small>
-                  </div>
-                </li>
-                                                                              <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                  <a href="https://www.f1maximaal.nl/formule-1/282559/formule-1-gaat-mogelijk-werken-met-twee-races-per-weekend-in-2020" class="text-dark" title="&#039;Formule 1 gaat mogelijk werken met twee races per weekend in 2020&#039;">
-                                        <img data-src="https://reach.jentcdn.net/media/315/shared/cf83e/fm/69b/142603_69b124199d9c5dabe3c5b0c1ea6a3b46.jpg" class="lozad mr-3" alt="&#039;Formule 1 gaat mogelijk werken met twee races per weekend in 2020&#039;" width="300" height="200"  alt="&#039;Formule 1 gaat mogelijk werken met twee races per weekend in 2020&#039;">
-                                      </a>
-                  <div class="media-body my-2">
-                    <small class="text-primary text-uppercase" style="font-weight:bold;">Formule 1</small>
-                    <a href="https://www.f1maximaal.nl/formule-1/282559/formule-1-gaat-mogelijk-werken-met-twee-races-per-weekend-in-2020" class="text-dark" title="&#039;Formule 1 gaat mogelijk werken met twee races per weekend in 2020&#039;"><h5 class="my-2">&#039;Formule 1 gaat mogelijk werken met twee races per weekend in 2020&#039;</h5></a>
-                    <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 09:31</small>
-                  </div>
-                </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
-
-            <p class="h4 text-primary">Meer nieuws</p>
-            <ul class="list-group list-group-flush">
-                                                                                                                                                                                                                                                                                                                                                            <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     08:57  <a href="https://www.f1maximaal.nl/formule-1/282547/renault-gaat-management-ricciardo-en-ocon-korten-op-salarissen" title="" class="flex-grow-1 px-3 py-1 text-dark">Renault gaat management, Ricciardo &eacute;n Ocon korten op salarissen</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282547/renault-gaat-management-ricciardo-en-ocon-korten-op-salarissen" title="" class="text-primary" aria-label="Renault gaat management, Ricciardo &eacute;n Ocon korten op salarissen"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     08:40  <a href="https://www.f1maximaal.nl/formule-1/282542/vraagtekens-bij-red-bull-exit-dan-kon-zijn-exit-clausule-in-werking-treden" title="" class="flex-grow-1 px-3 py-1 text-dark">Vraagtekens bij Red Bull-exit: &#039;Dan kon zijn exit-clausule in werking treden&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282542/vraagtekens-bij-red-bull-exit-dan-kon-zijn-exit-clausule-in-werking-treden" title="" class="text-primary" aria-label="Vraagtekens bij Red Bull-exit: &#039;Dan kon zijn exit-clausule in werking treden&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282527/mol-mailde-organisatie-met-tips-voorgesteld-om-te-starten-met-silverstone-en-zandvoort" title="" class="flex-grow-1 px-3 py-1 text-dark">Mol mailde organisatie met tips: &#039;Voorgesteld om te starten met Silverstone en Zandvoort&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282527/mol-mailde-organisatie-met-tips-voorgesteld-om-te-starten-met-silverstone-en-zandvoort" title="" class="text-primary" aria-label="Mol mailde organisatie met tips: &#039;Voorgesteld om te starten met Silverstone en Zandvoort&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282526/coronel-over-vormgeving-seizoen-2020-drie-races-per-weekend-is-geen-probleem" title="" class="flex-grow-1 px-3 py-1 text-dark">Coronel over vormgeving seizoen 2020: &#039;Drie races per weekend is geen probleem&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282526/coronel-over-vormgeving-seizoen-2020-drie-races-per-weekend-is-geen-probleem" title="" class="text-primary" aria-label="Coronel over vormgeving seizoen 2020: &#039;Drie races per weekend is geen probleem&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282525/formule-1-teams-stellen-bijeenkomst-over-budgetplafond-uit-nieuwe-datum-onbekend" title="" class="flex-grow-1 px-3 py-1 text-dark">Formule 1-teams stellen bijeenkomst over budgetplafond uit, nieuwe datum onbekend</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282525/formule-1-teams-stellen-bijeenkomst-over-budgetplafond-uit-nieuwe-datum-onbekend" title="" class="text-primary" aria-label="Formule 1-teams stellen bijeenkomst over budgetplafond uit, nieuwe datum onbekend"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282524/f1-rijders-gaan-met-simraces-geld-inzamelen-voor-coronabestrijding" title="" class="flex-grow-1 px-3 py-1 text-dark">F1-rijders gaan met simraces geld inzamelen voor coronabestrijding</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282524/f1-rijders-gaan-met-simraces-geld-inzamelen-voor-coronabestrijding" title="" class="text-primary" aria-label="F1-rijders gaan met simraces geld inzamelen voor coronabestrijding"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282523/norris-wordt-beter-naar-me-geluisterd-binnen-mclaren-dan-een-jaar-geleden" title="" class="flex-grow-1 px-3 py-1 text-dark">Norris: &#039;Wordt beter naar me geluisterd binnen McLaren dan een jaar geleden&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282523/norris-wordt-beter-naar-me-geluisterd-binnen-mclaren-dan-een-jaar-geleden" title="" class="text-primary" aria-label="Norris: &#039;Wordt beter naar me geluisterd binnen McLaren dan een jaar geleden&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282463/zonder-het-machtige-mercedes-is-red-bull-nergens" title="" class="flex-grow-1 px-3 py-1 text-dark">&#039;Zonder het machtige Mercedes is Red Bull nergens&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282463/zonder-het-machtige-mercedes-is-red-bull-nergens" title="" class="text-primary" aria-label="&#039;Zonder het machtige Mercedes is Red Bull nergens&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282522/todt-vraag-me-af-of-er-nog-wel-toeschouwers-komen-als-we-weer-racen" title="" class="flex-grow-1 px-3 py-1 text-dark">Todt: &#039;Vraag me af of er nog wel toeschouwers komen als we weer racen&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282522/todt-vraag-me-af-of-er-nog-wel-toeschouwers-komen-als-we-weer-racen" title="" class="text-primary" aria-label="Todt: &#039;Vraag me af of er nog wel toeschouwers komen als we weer racen&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282515/renault-verlengt-sluiting-fabriek-tot-en-met-mei" title="" class="flex-grow-1 px-3 py-1 text-dark">Renault verlengt sluiting fabriek tot en met mei</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282515/renault-verlengt-sluiting-fabriek-tot-en-met-mei" title="" class="text-primary" aria-label="Renault verlengt sluiting fabriek tot en met mei"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282223/inside-simracen-verschoor-simracen-belangrijk-om-race-focus-te-trainen" title="" class="flex-grow-1 px-3 py-1 text-dark">Inside Simracen | Verschoor: &#039;Simracen belangrijk om race-focus te trainen&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282223/inside-simracen-verschoor-simracen-belangrijk-om-race-focus-te-trainen" title="" class="text-primary" aria-label="Inside Simracen | Verschoor: &#039;Simracen belangrijk om race-focus te trainen&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282502/briatore-brawn-sprak-over-een-volledig-seizoen-in-europa" title="" class="flex-grow-1 px-3 py-1 text-dark">Briatore: &#039;Brawn sprak over een volledig seizoen in Europa&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282502/briatore-brawn-sprak-over-een-volledig-seizoen-in-europa" title="" class="text-primary" aria-label="Briatore: &#039;Brawn sprak over een volledig seizoen in Europa&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282382/f1-kijktip-schumacher-vs-villeneuve-in-bloedstollend-seizoenslot-van-1997" title="" class="flex-grow-1 px-3 py-1 text-dark">F1 Kijktip | Schumacher vs. Villeneuve in bloedstollend seizoenslot van 1997</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282382/f1-kijktip-schumacher-vs-villeneuve-in-bloedstollend-seizoenslot-van-1997" title="" class="text-primary" aria-label="F1 Kijktip | Schumacher vs. Villeneuve in bloedstollend seizoenslot van 1997"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282498/todt-ruikt-de-overwinning-een-van-de-tegenstanders-is-al-afgehaakt" title="" class="flex-grow-1 px-3 py-1 text-dark">Todt ruikt de overwinning: &#039;Een van de tegenstanders is al afgehaakt&#039;</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282498/todt-ruikt-de-overwinning-een-van-de-tegenstanders-is-al-afgehaakt" title="" class="text-primary" aria-label="Todt ruikt de overwinning: &#039;Een van de tegenstanders is al afgehaakt&#039;"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                                                <li class="list-group-item d-flex justify-content-between align-items-center p-1">
-                     10/04  <a href="https://www.f1maximaal.nl/formule-1/282495/formula-1-herhaalt-zaterdag-een-meeslepende-race-uit-2019" title="" class="flex-grow-1 px-3 py-1 text-dark">Formula 1 herhaalt zaterdag een meeslepende race uit 2019</a>
-                    <a href="https://www.f1maximaal.nl/formule-1/282495/formula-1-herhaalt-zaterdag-een-meeslepende-race-uit-2019" title="" class="text-primary" aria-label="Formula 1 herhaalt zaterdag een meeslepende race uit 2019"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                  </li>
-                                          </ul>
-            <a href="https://www.f1maximaal.nl/api/v1/article" class="btn btn-light btn-sm btn-block text-uppercase font-weight-bold js-load-more" id="load-more-news" data-date="1586525314" data-div="#mvp-tab-col1 #main-news .list-group" style="padding:0.75rem .75rem;">Meer nieuws</a>
-          </div>
-
-          <div class="tab-pane fade" id="main-videos" role="tabpanel" aria-labelledby="Video's">
-            <ul class="list-unstyled mt-1">
-
-                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/282623/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-garde" class="text-dark" title="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/dvWTVEJKi-c/0.jpg" class="lozad mr-3" alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde" alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/282623/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-garde" class="text-dark"><h5 class="my-2">Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Garde</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joris Verwijst <i class="fa fa-clock-o"></i> 11 april 2020 | 14:34</small>
-                    </div>
-                  </li>
-                                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/282365/video-throwback-naar-hilarisch-interview-met-ricciardo-en-verstappen" class="text-dark" title="Video | Throwback naar hilarisch interview met Ricciardo en Verstappen">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/s6BLGyK74Ck/0.jpg" class="lozad mr-3" alt="Video | Throwback naar hilarisch interview met Ricciardo en Verstappen" alt="Video | Throwback naar hilarisch interview met Ricciardo en Verstappen" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/282365/video-throwback-naar-hilarisch-interview-met-ricciardo-en-verstappen" class="text-dark"><h5 class="my-2">Video | Throwback naar hilarisch interview met Ricciardo en Verstappen</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Christian Moerman <i class="fa fa-clock-o"></i> 09 april 2020 | 15:16</small>
-                    </div>
-                  </li>
-                                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/281472/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-zande" class="text-dark" title="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Zande">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/AkKPWZXt3o0/0.jpg" class="lozad mr-3" alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Zande" alt="Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Zande" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/281472/video-formule-1-cafe-met-doornbos-tom-coronel-en-van-der-zande" class="text-dark"><h5 class="my-2">Video | Formule 1 Caf&eacute; met Doornbos, Tom Coronel en Van der Zande</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Rick Pasker <i class="fa fa-clock-o"></i> 04 april 2020 | 19:21</small>
-                    </div>
-                  </li>
-                                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/281502/video-een-rondje-over-het-circuit-van-hanoi-in-virtuele-mercedes" class="text-dark" title="Video | Een rondje over het circuit van Hanoi in virtuele Mercedes">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/I4lVQjgOL8M/0.jpg" class="lozad mr-3" alt="Video | Een rondje over het circuit van Hanoi in virtuele Mercedes" alt="Video | Een rondje over het circuit van Hanoi in virtuele Mercedes" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/281502/video-een-rondje-over-het-circuit-van-hanoi-in-virtuele-mercedes" class="text-dark"><h5 class="my-2">Video | Een rondje over het circuit van Hanoi in virtuele Mercedes</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Rick Pasker <i class="fa fa-clock-o"></i> 04 april 2020 | 15:38</small>
-                    </div>
-                  </li>
-                                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/281247/video-hoogtepunten-norris-tijdens-ronde-vijf-van-team-redline-competitie" class="text-dark" title="Video | Hoogtepunten Norris tijdens ronde vijf van Team Redline-competitie">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/C0WHjsZNKRQ/0.jpg" class="lozad mr-3" alt="Video | Hoogtepunten Norris tijdens ronde vijf van Team Redline-competitie" alt="Video | Hoogtepunten Norris tijdens ronde vijf van Team Redline-competitie" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/281247/video-hoogtepunten-norris-tijdens-ronde-vijf-van-team-redline-competitie" class="text-dark"><h5 class="my-2">Video | Hoogtepunten Norris tijdens ronde vijf van Team Redline-competitie</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Christian Moerman <i class="fa fa-clock-o"></i> 03 april 2020 | 12:11</small>
-                    </div>
-                  </li>
-                                                                <li class="media" style="border-top:1px solid rgba(0,0,0,.125);">
-                    <a href="https://www.f1maximaal.nl/videos/280740/video-ted-kravitz-favoriete-momenten" class="text-dark" title="Video | Ted Kravitz&#039; favoriete momenten">
-                                          <img width="300" height="200" data-src="//img.youtube.com/vi/LX3L8ONeM4Y/0.jpg" class="lozad mr-3" alt="Video | Ted Kravitz&#039; favoriete momenten" alt="Video | Ted Kravitz&#039; favoriete momenten" />
-                                        </a>
-                    <div class="media-body my-2">
-                      <small class="text-primary text-uppercase" style="font-weight:bold;">Video's</small>
-                      <a href="https://www.f1maximaal.nl/videos/280740/video-ted-kravitz-favoriete-momenten" class="text-dark"><h5 class="my-2">Video | Ted Kravitz&#039; favoriete momenten</h5></a>
-                      <small class="d-block text-uppercase mt-3" style="color:#999;">Door Joshua Jacobs <i class="fa fa-clock-o"></i> 31 maart 2020 | 18:56</small>
-                    </div>
-                  </li>
-                                          </ul>
-            <a href="https://www.f1maximaal.nl/api/v1/article?type=VIDEO" class="btn btn-light btn-sm btn-block text-uppercase font-weight-bold js-load-more" id="load-more-videos" data-date="1585673760" data-div="#mvp-tab-col1 #main-videos .list-group" style="padding:0.75rem .75rem;">f1maximaal.more_videos</a>
-          </div>
-
-        </div>
       </div>
-
-      <div id="side" class="mt-4" style="min-width:336px;">
-                   <!-- START Most Used Tags -->
-<div class="card border-0 mt-4">
-  <div class="card-header text-primary bg-white h5">In het nieuws</div>
-    <p style="font-size:1.1rem;padding: .75rem 1.25rem;margin-bottom:0;padding-bottom:0;">
-          <a href="https://www.f1maximaal.nl/mercedes" class="badge badge-light text-uppercase">mercedes</a>
-          <a href="https://www.f1maximaal.nl/max-verstappen-nieuws" class="badge badge-light text-uppercase">Max Verstappen nieuws</a>
-          <a href="https://www.f1maximaal.nl/red-bull-racing" class="badge badge-light text-uppercase">Red Bull Racing</a>
-          <a href="https://www.f1maximaal.nl/simracen" class="badge badge-light text-uppercase">Simracen</a>
-          <a href="https://www.f1maximaal.nl/ferrari" class="badge badge-light text-uppercase">Ferrari</a>
-        </p>
-</div>
-<!-- END Most Used Tags -->
-                      <!-- AD -->
-<div class="card border-0 mt-4">
-  <div style="margin:15px 0;">
-<!-- /1030791/F1Max_ROS_Rectangle1_ATF -->
-
-</div>
-<style>
-  .calendar-table {
-    line-height: 25px;
-    text-align: left;
-    width: 100%;
-  }
-
-  .calendar-table td {
-    padding: 5px;
-    border-top: 1px solid #ddd;
-  }
-
-#mvp-side-wrap .mvp-widget-ad {
- width:100%;
-}
-</style>
-
-<!-- CALENDAR -->
-
-<!-- LIJST MET LAND CODES VOOR VLAGGEN https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes -->
-      <div class="card-header text-primary bg-white h5">Kalender</div>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">
-          <div class="d-flex justify-content-between">
-            <span class="flag flag-fr mt-1"></span><!--  Vlag veranderen door taal van vlag aan te passen: flag-{TAALCODE}  -->
-            <h6 class="mb-1">GP Frankrijk 2020<br /><small class="mb-1 text-muted" style="font-size:65%;">Circuit Paul Ricard</small></h6> <!-- GP + Lokatie aanpassen -->
-            <small class="text-muted">28 juni 2020</small> <!-- Datum aanpassen -->
-          </div>
-        </li>
-      </ul>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item d-flex justify-content-between font-weight-bold"><span>26 juni 2020</span></li> <!-- Datum van de vrijdag -->
-        <li class="list-group-item d-flex justify-content-between"><span>11:00 - 12:30</span><span>Eerste vrije training</span></li> <!-- Eerste training, de tijd -->
-        <li class="list-group-item d-flex justify-content-between"><span>15:00 - 16:30</span><span>Tweede vrije training</span></li> <!-- Tweede training, de tijd -->
-        <li class="list-group-item d-flex justify-content-between font-weight-bold"><span>27 juni 2020</span></li><!-- Datum van de zaterdag -->
-        <li class="list-group-item d-flex justify-content-between"><span>12:00 - 13:00</span><span>Derde vrije training</span></li> <!-- Derde training, de tijd -->
-        <li class="list-group-item d-flex justify-content-between"><span>15:00 - 16:00</span><span>Kwalificatie</span></li> <!-- Kwalificatie, de tijd -->
-        <li class="list-group-item d-flex justify-content-between font-weight-bold"><span>28 juni 2020</span></li><!-- Datum van zondag -->
-        <li class="list-group-item d-flex justify-content-between"><span>15:10 - 17:10</span><span>Race</span></li> <!-- Race, de tijd -->
-      </ul>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">
-          <div class="d-flex justify-content-between">
-            <span class="flag flag-at mt-1"></span> <!--  Vlag veranderen door taal van vlag aan te passen: flag-{TAALCODE}  -->
-            <h6 class="mb-1">GP Oostenrijk<br /><small class="mb-1 text-muted" style="font-size:65%;"></small></h6> <!-- GP + Lokatie aanpassen -->
-            <small class="text-muted">5 jul. 2020</small> <!-- Datum aanpassen -->
-          </div>
-        </li>
-        <li class="list-group-item">
-          <a href="/formule1-kalender" title="Volledige F1 Kalender" class="btn btn-light btn-sm btn-block text-uppercase border-0 rounded-0 font-weight-bold" style="padding:.75rem .75rem;">Volledige kalender</a>
-        </li>
-      </ul>
-      <!-- END CALENDAR -->
-</div>
-<!-- END AD -->
-                      <!-- LATEST COMMENT -->
-<div class="card mt-4 mb-4 border-0">
-  <div class="card-header text-primary bg-white h5">Laatste reacties</div>
-  <div class="list-group list-group-flush">
-
-    <span class="list-group-item">
-      <a href="https://www.f1maximaal.nl/formule-1/282559/formule-1-gaat-mogelijk-werken-met-twee-races-per-weekend-in-2020#comment_675565" title="Ik hoop het van wel heb nu lang zat gewacht op de formule1" class="mb-1 text-dark">Ik hoop het van wel heb nu lang zat gewacht op de formule1</a>
-      <small class="text-muted d-block mt-1"><i class="fa fa-clock-o"></i>  16:13 </small>
-    </span>
-
-    <span class="list-group-item">
-      <a href="https://www.f1maximaal.nl/formule-1/282223/inside-simracen-verschoor-simracen-belangrijk-om-race-focus-te-trainen#comment_675537" title="formule 1 gaat vermoedelijk 2 races per week rijden.Nou,dat zou knap zijn,maar het kan
-niet,het.." class="mb-1 text-dark">formule 1 gaat vermoedelijk 2 races per week rijden.Nou,dat zou knap zijn,maar het kan
-niet,het..</a>
-      <small class="text-muted d-block mt-1"><i class="fa fa-clock-o"></i>  10:55 </small>
-    </span>
-
-    <span class="list-group-item">
-      <a href="https://www.f1maximaal.nl/max-verstappen/282409/verstappen-na-touche-in-simrace-dat-was-jammer#comment_675461" title="Max kwam niet in aanraking met een andere coureur maar werd er af getikt door.." class="mb-1 text-dark">Max kwam niet in aanraking met een andere coureur maar werd er af getikt door..</a>
-      <small class="text-muted d-block mt-1"><i class="fa fa-clock-o"></i>  10/04 </small>
-    </span>
-
-    <span class="list-group-item">
-      <a href="https://www.f1maximaal.nl/formule-1/282274/dit-is-ontstaan-uit-een-wanhopige-poging-van-horner-om-newey-te-behouden#comment_675406" title="Je kan het proberen??" class="mb-1 text-dark">Je kan het proberen??</a>
-      <small class="text-muted d-block mt-1"><i class="fa fa-clock-o"></i>  10/04 </small>
-    </span>
-
-    <span class="list-group-item">
-      <a href="https://www.f1maximaal.nl/formule-1/282413/tost-snap-niet-dat-er-nog-geen-vaccin-gevonden-is#comment_675404" title="een vaccin vind je niet  zomaar , die moet ook nog verder  getest uitgewerkt worden..." class="mb-1 text-dark">een vaccin vind je niet  zomaar , die moet ook nog verder  getest uitgewerkt worden...</a>
-      <small class="text-muted d-block mt-1"><i class="fa fa-clock-o"></i>  10/04 </small>
-    </span>
-      </div>
-</div>
-<!-- END LATEST COMMENT -->
-                      <!-- AD -->
-<div class="card border-0 mt-4">
-  <!-- /1030791/F1Max_HP_Rectangle2_BTF -->
-
-</div>
-<!-- END AD -->
-                      <!-- AD -->
-<div class="card border-0 mt-4">
-  <!-- -->
-</div>
-<!-- END AD -->
-                      <!-- MORE NEWS -->
-  <div class="card mt-4 border-0 card-list">
-        <div class="card-header text-primary bg-white h5">Meer Verstappen nieuws</div>
-        <ul class="list-group list-group-flush">
-            <li class="list-group-item" style="display: flex;flex-direction: row;"><small style="width:35px;min-width:35px;max-width:35px;justify-content: left;display:flex;"> 10/04 </small> <span style="display:block;margin-left:8px;"><a href="https://www.f1maximaal.nl/max-verstappen/282441/ecclestone-kiest-verstappen-ik-zou-geen-moment-twijfelen" class="d-block text-dark">Ecclestone kiest Verstappen: &#039;Ik zou geen moment twijfelen&#039;</a><small><i class="fa fa-comments"></i> 0 reacties</small></span></li>
-            <li class="list-group-item" style="display: flex;flex-direction: row;"><small style="width:35px;min-width:35px;max-width:35px;justify-content: left;display:flex;"> 10/04 </small> <span style="display:block;margin-left:8px;"><a href="https://www.f1maximaal.nl/max-verstappen/282409/verstappen-na-touche-in-simrace-dat-was-jammer" class="d-block text-dark">Verstappen na touch&eacute; in simrace: &#039;Dat was jammer&#039;</a><small><i class="fa fa-comments"></i> 1 reacties</small></span></li>
-            <li class="list-group-item" style="display: flex;flex-direction: row;"><small style="width:35px;min-width:35px;max-width:35px;justify-content: left;display:flex;"> 09/04 </small> <span style="display:block;margin-left:8px;"><a href="https://www.f1maximaal.nl/max-verstappen/282397/verstappen-live-te-volgen-in-race-voor-duits-simrace-kampioenschap" class="d-block text-dark">Verstappen live te volgen in race voor Duits simrace-kampioenschap</a><small><i class="fa fa-comments"></i> 0 reacties</small></span></li>
-            <li class="list-group-item" style="display: flex;flex-direction: row;"><small style="width:35px;min-width:35px;max-width:35px;justify-content: left;display:flex;"> 08/04 </small> <span style="display:block;margin-left:8px;"><a href="https://www.f1maximaal.nl/max-verstappen/282178/verstappen-vanaf-mei-in-actie-in-de-porsche-esports-supercup" class="d-block text-dark">Verstappen vanaf mei in actie in de Porsche Esports Supercup</a><small><i class="fa fa-comments"></i> 0 reacties</small></span></li>
-            <li class="list-group-item" style="display: flex;flex-direction: row;"><small style="width:35px;min-width:35px;max-width:35px;justify-content: left;display:flex;"> 07/04 </small> <span style="display:block;margin-left:8px;"><a href="https://www.f1maximaal.nl/max-verstappen/281857/frijns-ik-zou-wel-eens-willen-zien-of-verstappen-dan-kampioen-wordt" class="d-block text-dark">Frijns: &#039;Ik zou wel eens willen zien of Verstappen dan kampioen wordt&#039;</a><small><i class="fa fa-comments"></i> 1 reacties</small></span></li>
-                  <li class="list-group-item">
-        <a href="/max-verstappen" class="btn btn-light btn-sm btn-block text-uppercase border-0 rounded-0 font-weight-bold" style="padding:0.75rem .75rem;">Meer Verstappen nieuws</a>
-      </li>
-          </ul>
-  </div>
-  <!-- END MORE NEWS -->
-
-           </div>
-
     </div>
+
+      <div class="dads">  </div>
+
+              <div style="clear:both;"></div>
+<ul class="nav nav-pills" id="js-latest-most" role="tablist">
+      <li class="nav-item nav-50" style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Onze partners</a>
+      </li>
+    </ul>
+
+<div class="tab-content tab-news-list" style="overflow:hidden;margin-bottom:10px;background-color:#FFF;">
+      <div class="tab-pane active most_read_block" id="mpopular" role="tabpanel" style="text-align:center;">
+<a href="https://www.casinowinner.casino/free-soccerbetting/ " target="_blank" style="color:#a10000;">Voetbalwedden online</a><br />
+<a href=" https://www.onlinecasino.amsterdam/" target="_blank" style="color:#a10000;">online casino Nederland</a><br />
+      </div>
+    </div>
+
+    <div class="front-item" style="margin-bottom:0.8rem;overflow:hidden;">
+      <ul class="nav nav-pills" role="tablist">
+        <li class="nav-item nav-100">
+          <a class="nav-link active inverse" data-toggle="tab" href="#videos" role="tab" style="color:#FFF !important;">Video's</a>
+        </li>
+      </ul>
+      <ul class="list-group list-video custombg" style="margin-bottom:0.8rem;">
+                          <li class="list-group-item custombg">
+
+                    <a style="width:calc(100%);float:left;position:relative;margin-bottom:10px;" href="https://www.twentefans.nl/nieuws/videos/282786/johan-haalt-uit-naar-betaald-voetbal-het-is-lachwekkend" title="Johan haalt uit naar betaald voetbal: &quot;Het is lachwekkend&quot;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/fRIgIsJQCPE/0.jpg" width="100%"  alt="Johan haalt uit naar betaald voetbal: "Het is lachwekkend"">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100%);float:left;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282786/johan-haalt-uit-naar-betaald-voetbal-het-is-lachwekkend" title="Johan haalt uit naar betaald voetbal: &quot;Het is lachwekkend&quot;" class="pull-right popular-title">Johan haalt uit naar betaald voetbal: &quot;Het is lachwekkend&quot;</a>
+
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/282782/het-is-niet-reeel-om-in-juni-weer-te-gaan-voetballen" title="&quot;Het is niet re&euml;el om in juni weer te gaan voetballen&quot;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/vRaOCURvdTY/0.jpg" width="100%"  alt=""Het is niet reëel om in juni weer te gaan voetballen"">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282782/het-is-niet-reeel-om-in-juni-weer-te-gaan-voetballen" title="&quot;Het is niet re&euml;el om in juni weer te gaan voetballen&quot;" class="pull-right popular-title">&quot;Het is niet re&euml;el om in juni weer te gaan voetballen&quot;</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/282810/sfeeracties-fc-twente-2019-2020" title="Sfeeracties FC Twente 2019 - 2020" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/6FMd1EgEORw/0.jpg" width="100%"  alt="Sfeeracties FC Twente 2019 - 2020">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282810/sfeeracties-fc-twente-2019-2020" title="Sfeeracties FC Twente 2019 - 2020" class="pull-right popular-title">Sfeeracties FC Twente 2019 - 2020</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/282427/andy-geeft-rondleiding-door-huis-mijn-vrouw-ligt-boven-met-twee-negers" title="Andy geeft rondleiding door huis: &quot;Mijn vrouw ligt boven met twee negers&quot;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/k6T5JqCveB8/0.jpg" width="100%"  alt="Andy geeft rondleiding door huis: "Mijn vrouw ligt boven met twee negers"">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282427/andy-geeft-rondleiding-door-huis-mijn-vrouw-ligt-boven-met-twee-negers" title="Andy geeft rondleiding door huis: &quot;Mijn vrouw ligt boven met twee negers&quot;" class="pull-right popular-title">Andy geeft rondleiding door huis: &quot;Mijn vrouw ligt boven met twee negers&quot;</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/282331/time-out-tegen-pesten" title="Time Out Tegen Pesten" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/HSikVR8ilOE/0.jpg" width="100%"  alt="Time Out Tegen Pesten">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282331/time-out-tegen-pesten" title="Time Out Tegen Pesten" class="pull-right popular-title">Time Out Tegen Pesten</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/282191/het-kwartje-valt-maar-niet-bij-de-knvb" title="&quot;Het kwartje valt maar niet bij de KNVB&quot;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/tS8M60zZ2Hs/0.jpg" width="100%"  alt=""Het kwartje valt maar niet bij de KNVB"">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/282191/het-kwartje-valt-maar-niet-bij-de-knvb" title="&quot;Het kwartje valt maar niet bij de KNVB&quot;" class="pull-right popular-title">&quot;Het kwartje valt maar niet bij de KNVB&quot;</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/281972/fc-twente-moet-inleveren-op-tv-geldenranglijst" title="&#039;FC Twente moet inleveren op tv-geldenranglijst&#039;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/-1FlaDRwARo/0.jpg" width="100%"  alt="'FC Twente moet inleveren op tv-geldenranglijst'">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/281972/fc-twente-moet-inleveren-op-tv-geldenranglijst" title="&#039;FC Twente moet inleveren op tv-geldenranglijst&#039;" class="pull-right popular-title">&#039;FC Twente moet inleveren op tv-geldenranglijst&#039;</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/281799/facetimen-met-queensy-menig" title="Facetimen met Queensy Menig" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/xg0Vg7VSmbw/0.jpg" width="100%"  alt="Facetimen met Queensy Menig">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/281799/facetimen-met-queensy-menig" title="Facetimen met Queensy Menig" class="pull-right popular-title">Facetimen met Queensy Menig</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/281693/voetbaltijd-met-arjan-steenkamp" title="VoetbalTijd met Arjan Steenkamp" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/eim8i_-Kjkw/0.jpg" width="100%"  alt="VoetbalTijd met Arjan Steenkamp">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/281693/voetbaltijd-met-arjan-steenkamp" title="VoetbalTijd met Arjan Steenkamp" class="pull-right popular-title">VoetbalTijd met Arjan Steenkamp</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/281674/iedereen-is-bang-voor-ordinair-chanterende-uefa" title="&quot;Iedereen is bang voor ordinair chanterende UEFA&quot;" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/JbG-7y5ewa4/0.jpg" width="100%"  alt=""Iedereen is bang voor ordinair chanterende UEFA"">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/281674/iedereen-is-bang-voor-ordinair-chanterende-uefa" title="&quot;Iedereen is bang voor ordinair chanterende UEFA&quot;" class="pull-right popular-title">&quot;Iedereen is bang voor ordinair chanterende UEFA&quot;</a>
+
+
+                          <li class="list-group-item custombg">
+
+                      <a style="width:calc(90px);float:left;position:relative;" href="https://www.twentefans.nl/nieuws/videos/281282/full-game-fc-twente-psv-02-04-2011" title="FULL GAME | FC Twente - PSV (02-04-2011)" class="pull-right popular-title">
+
+                      <img class="media-object pull-left mr-1 rounded lozad" data-src="//img.youtube.com/vi/4OWSu4m_wOs/0.jpg" width="100%"  alt="FULL GAME | FC Twente - PSV (02-04-2011)">
+                    <span class="pull-left custombg" style="position:absolute;bottom:5px;left:5px;width:30px;height:30px;color:#FFF;text-align:center;line-height:30px;font-size:1.2em;margin-right:10px;border-radius:25px !important;-webkit-border-radius:25px;-moz-border-radius:25px;font-weight: bold;"><i class="fa fa-play" aria-hidden="true"></i>
+</span>
+          </a>
+
+                    <a style="width:calc(100% - 100px);float:left;margin-left:10px;color:#FFF !important" href="https://www.twentefans.nl/nieuws/videos/281282/full-game-fc-twente-psv-02-04-2011" title="FULL GAME | FC Twente - PSV (02-04-2011)" class="pull-right popular-title">FULL GAME | FC Twente - PSV (02-04-2011)</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <li class="list-group-item custombg" style="text-align:center;">
+          <a href="/videos/" class="btn btn-outline-danger">Lees meer ›</a>
+        </li>
+      </ul>
+
+
+    <div style="clear:both;"></div>
+
+    <div class="dads">  </div>
+
+    <div style="clear:both;"></div>
+
+
+    <ul class="nav nav-pills" role="tablist">
+      <li class="nav-item nav-100">
+        <a class="nav-link active " data-toggle="tab" href="#videos" role="tab">Foto's</a>
+      </li>
+    </ul>
+    <div style="overflow:hidden;margin-bottom:10px;">
+            <div  style="background-color:#FFF;margin:0;padding:0;width:50%;border:0;float:left;padding:5px;">
+        <a href="https://www.twentefans.nl/nieuws/fotos/277055/uitvak-vitesse-fc-twente-trots-van-de-streek" title="Uitvak Vitesse - FC Twente: Trots van de Streek">
+                  <img class="media-object lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/d01/141546_d01071921d521eaea79daf18977c20c5.jpg" width="100%"  alt="Uitvak Vitesse - FC Twente: Trots van de Streek">
+                </a>
+      </div>
+            <div  style="background-color:#FFF;margin:0;padding:0;width:50%;border:0;float:left;padding:5px;">
+        <a href="https://www.twentefans.nl/nieuws/fotos/277068/sfeeractie-voor-fc-twente-sc-heerenveen" title="Sfeeractie voor FC Twente - SC Heerenveen">
+                  <img class="media-object lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/a23/141548_a237fce94ec9cc5f6c9492f798617a0b.jpg" width="100%"  alt="Sfeeractie voor FC Twente - SC Heerenveen">
+                </a>
+      </div>
+            <div  style="background-color:#FFF;margin:0;padding:0;width:50%;border:0;float:left;padding:5px;">
+        <a href="https://www.twentefans.nl/nieuws/fotos/277067/sfeeractie-voor-fc-twente-sc-heerenveen-ultras-vak-p" title="Sfeeractie voor FC Twente - SC Heerenveen (Ultras Vak-P)">
+                  <img class="media-object lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/176/141547_1769e59751a94d1447f61213da30b8cd.jpg" width="100%"  alt="Sfeeractie voor FC Twente - SC Heerenveen (Ultras Vak-P)">
+                </a>
+      </div>
+            <div  style="background-color:#FFF;margin:0;padding:0;width:50%;border:0;float:left;padding:5px;">
+        <a href="https://www.twentefans.nl/nieuws/fotos/271326/sfeeractie-voor-fc-twente-sparta-rotterdam" title="Sfeeractie voor FC Twente - Sparta Rotterdam">
+                  <img class="media-object lozad" data-src="https://bnmedia.jentcdn.net/media/624/shared/5dc83/fm/179/139929_17987cd70ffde87f432defd0c70d3ff9.jpg" width="100%"  alt="Sfeeractie voor FC Twente - Sparta Rotterdam">
+                </a>
+      </div>
+            <ul class="list-group ">
+      <li class="list-group-item " style="text-align:center;">
+        <a href="/nieuws/fotos" class="btn btn-outline-danger">Lees meer ›</a>
+      </li>
+    </ul>
+    </div>
+
+    <div style="clear:both;"></div>
+
+    <ul class="nav nav-pills" id="js-latest-most" role="tablist">
+      <li class="nav-item nav-50"  style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Laatste reacties</a>
+      </li>
+    </ul>
+    <div class="tab-content tab-news-list" style="overflow:hidden;margin-bottom:10px;">
+      <div class="tab-pane active most_read_block" id="mpopular" role="tabpanel">
+        <ul class="list-group" style="padding:0;margin:0;">
+                                    <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit#comment_675896" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/4a3/123029_4a31ea5aa92ece46780bf97b2de55670.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit#comment_675896" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Dat piemeltje gaat er bij haar ook niet in
+              </a>
+              </li>
+                                                <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit#comment_675895" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/4a3/123029_4a31ea5aa92ece46780bf97b2de55670.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282852/spitse-een-terugkeer-naar-nederland-sluit-ik-ook-niet-uit#comment_675895" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Wij kunnen ook wel een goede spitse gebruiken, maar daar moet een piemeltje aan, niet..
+              </a>
+              </li>
+                                                <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282927/perez-eerlijk-blaise-en-ik-lagen-elkaar-alleen-prive-niet#comment_675894" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/675/118836_675ede6254cb36009078ae4ab32a1fab.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282927/perez-eerlijk-blaise-en-ik-lagen-elkaar-alleen-prive-niet#comment_675894" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Misschien kwam dat ook Perez bij Ajax met kankerneger had gescholden? Wie weet dat dat..
+              </a>
+              </li>
+                                                <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen#comment_675893" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/9b6/115967_9b6ab0dadee43076634fccb18ee8b092.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282924/oud-twentenaar-flirt-met-besiktas-iedereen-wil-voor-zon-club-spelen#comment_675893" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Het was een prutser  !
+              </a>
+              </li>
+                                                <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona#comment_675891" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/75b/142094_75b5f82b147bab49ba90fa892f22eae9.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/transfers-geruchten/282731/financiele-klapper-voor-fc-twente-bij-transfer-gewilde-corona#comment_675891" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Wat wil je toch met weer een keeper
+
+Brondeel , de lange en v/d gouw..
+              </a>
+              </li>
+                                                <li class="list-group-item" style="padding-left:0;padding-right:0;text-align:left;margin-left:0.5rem;">
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is#comment_675890" style="overflow:hidden;position:relative;width:40px;height:40px;margin-right:10px;float:left;background-image:url(  https://bnmedia.jentcdn.net/media/315/shared/5dc83/fm/fbe/141755_fbef0165da3d1aeef4c5743f8c3d8755.jpg );background-size:auto 100% ;border-radius:20px !important;background-position:center center;"></a>
+              <a href="https://www.twentefans.nl/nieuws/hoofdnieuws/282854/uefa-begint-in-te-zien-dat-voetballen-niet-meer-mogelijk-is#comment_675890" class="pull-right latest-title"
+              style="font-weight:normal;font-style:italic;width: calc(100% - 50px);">Ben bang dat het nog heel lang gaat duren voordat we weer voetballen. Gezien het..
+              </a>
+              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>
+      </div>
+    </div>
+
+    <div class="dads"> <!--
+<ul class="nav nav-pills" role="tablist" style="margin-top:15px;">
+      <li class="nav-item nav-50"  style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Partner</a>
+      </li>
+    </ul>
+<div style="background-color:#FFF"><iframe width="320px" height="383px" data-src="https://magazine.proshots.nl/index.html" frameborder="0" allowfullscreen="true"  allowtransparency="true" class="lozad"></iframe></div>
+-->
+ </div>
+
   </div>
 
-</main>
-
-
-<!-- AD -->
-	<div class="h_bottom container mt-4 mb-4"><!-- /1030791/F1Max_HP_Bottom_BTF -->
-</div>
-<!-- END AD -->
-
-<!-- Body footer -->
-
-<div style="width: calc(50% - 500px);  height: calc(50% - 300px); position: fixed; top: 120px; left: -10px;z-index:100;">
-              <div style="position: relative; width: 100%; height: 100%;">
-              <div id="backup-pos-left" data-id='1113375' data-width='160' data-height='600' style="width: 160px; position: absolute; right: 20px; height: 600px;"></div></div></div>
-<div style="width: calc(50% - 500px); height: calc(50% - 300px); position: fixed; top: 120px; right: -10px;z-index:100;">
-              <div style="position: relative; width: 100%; height: 100%;">
-               <div id="backup-pos-right" data-id='1113376' data-width='160' data-height='600' style="width: 160px; position: absolute; left: 20px; height: 600px;"></div></div></div>
-
-<style>
-.panel-primary {border: 1px solid #ddd;}
-.panel-primary>.panel-heading {background-color: #ff3c36 !important;border-color: #ff3c36 !important;}
-.js-poll a, .js-poll a:visited, .post-info-name a, .woocommerce .woocommerce-breadcrumb a {color: #ff3c36;}
-.btn-primary {color: #fff;background-color: #ff3c36;border-color: #ff3c36;}
+  <style type="text/css">
+.btn {font-size:14px;}
 </style>
+<ul class="nav nav-pills" id="js-latest-most" role="tablist">
+      <li class="nav-item nav-50" style="width:100%;">
+        <a class="nav-link active" data-toggle="tab" href="#mpopular" role="tab">Volgende wedstrijd</a>
+      </li>
+    </ul>
+<div class="stats stats-widget">
+<div class="tab-content">
+    <div id="programma" class="tab-pane active">
+      <table style="width:100%;" class="table">
+      <tbody>
+                                                                    <tr  data-match-id="11871822" >
+            <td style="border-top:0;text-align:center;width:50px;"> <img width="50" src="https://sportdata.heren80.nl/images//soccer/teams/21/629.png"> </td>
+            <td style="border-top:0;text-align:center;"> <strong>zondag 15 maart 2020 </strong> <br />
+               <span class="btn-theme" style="padding-top:4px;padding-bottom:4px;display:inline-block;">14:30 </span> <br />
+            </td>
+            <td style="text-align:center;border-top:0;width:50px;"> <img width="50" src="https://sportdata.heren80.nl/images//soccer/teams/17/593.png">  </td>
+          </tr>
+          <tr>
+          </tr>
+                                                                                                                                                            </tbody>
+        <tfoot>
+          <tr>
+            <th colspan="3" class="text-center">
+              <a href="https://www.twentefans.nl/fc-twente/statistieken/programma" title="Volledig programma" class="btn btn-outline-danger" style="font-weight:bold;">Bekijk agenda ›</a>
 
+                            <a href="https://www.twentefans.nl/fc-twente/voorspelling" title="Volledig programma" class="btn btn-outline-danger" style="font-weight:bold;">Voorspel wedstrijd ›</a>
+                        </th>
+          </tr>
+        </tfoot>
+    </table>
+  </div>
+  </div>
+</div>
+
+
+</div>
+  </div>
+</div>
+
+<div class="fixed_ad_left_body d-lg-block">  </div>
+<div class="fixed_ad_right_body d-lg-block"> </div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel-latest@1.9.0/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel-latest@1.9.0/slick/slick-theme.css" />
+<script src="//cdn.jsdelivr.net/npm/slick-carousel-latest@1.9.0/slick/slick.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+<script src="https://cmp.nextday.media/cmp.ndmtag.bundle.js" async></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSQ9Q5M');</script>
+<!-- End Google Tag Manager -->
+
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b75786530e12f00128ff990&product=inline-share-buttons' async='async'></script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-	navigator.serviceWorker.register("/OneSignalSDKWorker.js")
-	.then(function(registration) { console.log('ReachPWA service worker ready'); registration.update(); })
-	.catch(function(error) { console.log('Registration failed with ' + error); });
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7092928456189929",
+    enable_page_level_ads: true
   });
-}
 </script>
 
+<script src="//widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
 
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script type="text/javascript"> window._seedtagq = window._seedtagq || []; window._seedtagq.push(['_setId', '7150-3434-01']);
+
+(function () { var st = document.createElement('script'); st.type = 'text/javascript'; st.async = true; st.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://config.seedtag.com/loader.js?v=' + Math.random(); var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(st, s); })(); </script>
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
-$( document ).ready(function() {
-$('footer .font-weight-bold .col .p-0').append(' - <a href="#" onclick="showConsentManager()">Cookieinstellingen</a></span>');
-});
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "128f46e4-cf5e-4092-ac22-893981f89684",
+    });
+  });
+</script>
+
+<script type="text/javascript" src="https://nl.ads.justpremium.com/adserve/js.php?zone=670"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29190650-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-29190650-1', { 'anonymize_ip': true });
+</script>
+
+<script>
+    $(document).ready(function() {
+      $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 4
+          }
+        }, {
+          breakpoint: 520,
+          settings: {
+            slidesToShow: 3
+          }
+        }]
+      });
+    });
+  </script>
+
+<script type="text/javascript">
+var count = $("#contents").find("p").length;
+  if (count > 1) {
+    $("#contents p:first-child").after($('.special_ads'));
+  }
 </script>
 
 
 
 
+<footer class="footer-distributed" style="padding-top:0;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif !important;font-size: 1.05em;">
 
-<footer class="pt-4 mt-md-5 pt-md-5 border-top bg-dark">
+		<div style="background-color:#FFF;">
+<div class="container custom-footer">
+    <span style="color:#000;font-size:24px;font-weight:bold;display:block;text-align:center;padding:15px 0;">Partners</span>
+    <section class="customer-logos slider">
+      <div class="slide">
+        <a href="https://www.boeketcadeau.nl/" title="Bloemen bezorgen"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Logo Boeketcadeau.png" class="lozad" alt="Bloemen bezorgen"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.mijnautoonderdelen.nl/" title="MijnAutoOnderdelen"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/114/133745_1141cbdc466a9c2a27ddd04994ba29c8.png" class="lozad" alt="Mijnautoonderdelen.nl"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.budgetgift.nl/" title="Budgetgift.nl"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/budgetgift logo.png" class="lozad" alt="Budgetgift.nl"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.sans-online.nl/dameskleding/10-days/" title="Sans Online"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/94e/139695_94e4f70227e802462dae30b2253f1675.png" class="lozad" alt="Sans Online"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.raamdecoratie.com/" title="Raamdecoratie"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/raamdecoratie-com-logo.png" class="lozad" alt="Raamdecoratie"></a>
+      </div>
+      <div class="slide">
+        <a href="https://zakelijkgeld.nl/zakelijke-lening/" title="Zakelijke lening"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Zakelijk Geld logo.png" class="lozad" alt="Zakelijke lening"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.ongediertebestrijden.com/" title="Ongedierte Bestrijden"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Logo-ongediertebestrijden.png" class="lozad" alt="Ongedierte Bestrijden"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.traffictoday.nl/" title="Traffic Today"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Logo Traffic Today.png" class="lozad" alt="Traffic Today"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.urbansofa.nl/" title="Urbansofa"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Urbansofa logo.png" class="lozad" alt="Urbansofa"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.regionsflorist.de" title="Regionsflorist"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/0c6/135937_0c60581dd6e7c0bd520de4b658a3db1e.png" class="lozad" alt="Regionsflorist"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.hekwerkonline.nl/" title="Hekwerk Online"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/Logo Hekwerk.png" class="lozad" alt="Hekwerk Online"></a>
+      </div>
+      <div class="slide">
+        <a href="https://www.vipernews.com/nl/usenet/" title="Vipernews usenet"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/e33/142208_e3337920fcc51823b73cf6ed0939d7c4.png" class="lozad" alt="Vipernews Usenet"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.hetschwarzwald.nl/bedrijfsfeest-twente/" title="Het Schwarzwald"><img data-src="https://bnmedia.jentcdn.net/assets/bnmedia/image/schwarzwald-logo.png" class="lozad" alt="Het Schwarzwald"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.maxilia.nl/pennen-bedrukken/" title="Pennen bedrukken"><img data-src="https://www.twentefans.nl/shared/5dc83/fm/92c/129324_92cbbcf125d4a32eb74694f9c9b22bdd.jpg" class="lozad" alt="Pennen bedrukken"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.cibdol.nl/" title="Cibdol"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/915/142469_915fae4e71840d5eaffd41bcaa9cc42b.png" class="lozad" alt="Cibdol.nl"></a>
+      </div>
+<div class="slide">
+        <a href="https://zakelijkelening.nl/" title="Zakelijke Lening"><img data-src="https://www.twentefans.nl/shared/5dc83/fm/16a/130533_16aabce00114ab491b0e433c765d5aa7.png" class="lozad" alt="Zakelijke Lening"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.ledstripxl.nl/" title="LedstripXL"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/13d/132986_13d9933ae87a0253afe23234fc46be73.png" class="lozad" alt="Ledstrips kopen"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.regiobloemist.nl" title="Bloemen bestellen"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/80e/135938_80ef15c7754b754d225b0d9814c2b438.png" class="lozad" alt="Bloemen bestellen"></a>
+      </div>
+<div class="slide">
+        <a href="https://stimmt.digital/" Stimmt Digital"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/4fb/140032_4fba91b471d53e307fad73b30471baaf.jpg" class="lozad" Stimmt Digital"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.aanhangwagendirect.nl/" title="AanhangwagenDirect"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/f4e/140037_f4ebcee642287cf464faaa48486a1c19.png" class="lozad" alt="AanhangwagenDirect"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.best4u.nl/" title="Best4u"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/518/140038_5186ffa81cf2b82dbcd58cb77cf8a475.png" class="lozad" alt="Best4u"></a>
+      </div>
+<div class="slide">
+        <a href="https://www.bridgefund.nl/zakelijke-lening/" title="Bridgefund"><img data-src="https://bnmedia.jentcdn.net/media/1024/shared/5dc83/fm/8f7/140052_8f7d5005f3332adb362efdc3e343497e.png" class="lozad" alt="Bridgefund"></a>
+      </div>
+    </section>
+  </div>
+
+  <style>
+     .custom-footer h2{text-align:center;padding:20px}.custom-footer .slick-slide{margin:0 20px}.custom-footer .slick-slide img{width:100%}.custom-footer .slick-slider{position:relative;display:block;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.custom-footer .slick-list{position:relative;display:block;overflow:hidden;margin:0;padding:0}.custom-footer .slick-list:focus{outline:0}.custom-footer .slick-list.dragging{cursor:pointer;cursor:hand}.custom-footer .slick-slider .slick-list,.custom-footer .slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.custom-footer .slick-track{position:relative;top:0;left:0;display:block}.custom-footer .slick-track:after,.custom-footer .slick-track:before{display:table;content:''}.custom-footer .slick-track:after{clear:both}.custom-footer .slick-loading .slick-track{visibility:hidden}.custom-footer .slick-slide{display:none;float:left;height:100%;min-height:1px}.custom-footer [dir=rtl] .slick-slide{float:right}.custom-footer .slick-slide img{display:block}.custom-footer .slick-slide.slick-loading img{display:none}.custom-footer .slick-slide.dragging img{pointer-events:none}.custom-footer .slick-initialized .slick-slide{display:block}.custom-footer .slick-loading .slick-slide{visibility:hidden}.custom-footer .slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}.custom-footer .slick-arrow.slick-hidden{display:none}
+  </style>
+</div>
+
+
 	<div class="container">
 
-				<div class="row sitemap">
-							<div class="col-6 col-md">
-				<h6 class="text-white text-uppercase"> GP's  </h6>
-									<ul class="list-unstyled text-small">
-													<li><a title="Grand Prix van Vietnam" href="/gp-vietnam" >Grand Prix van Vietnam</a>
-													<li><a title="Grand Prix van Nederland" href="/gp-nederland" >Grand Prix van Nederland</a>
-													<li><a title="Grand Prix van Australië" href="/gp-australie"  target="_blank" >Grand Prix van Australië</a>
-													<li><a title="Grand Prix van Bahrein" href="/gp-bahrein"  target="_blank" >Grand Prix van Bahrein</a>
-													<li><a title="Grand Prix van China" href="/gp-china"  target="_blank" >Grand Prix van China</a>
-													<li><a title="Grand Prix van Azerbeidzjan" href="/gp-azerbeidzjan"  target="_blank" >Grand Prix van Azerbeidzjan</a>
-													<li><a title="Grand Prix van Spanje" href="/gp-spanje"  target="_blank" >Grand Prix van Spanje</a>
-													<li><a title="Grand Prix van Monaco" href="/gp-monaco"  target="_blank" >Grand Prix van Monaco</a>
-													<li><a title="Grand Prix van Canada" href="/gp-canada"  target="_blank" >Grand Prix van Canada</a>
-													<li><a title="Grand Prix van Frankrijk" href="/gp-frankrijk"  target="_blank" >Grand Prix van Frankrijk</a>
-													<li><a title="Grand Prix van Oostenrijk" href="/gp-oostenrijk"  target="_blank" >Grand Prix van Oostenrijk</a>
-													<li><a title="Grand Prix van Groot-Brittannië" href="/gp-groot-brittannie"  target="_blank" >Grand Prix van Groot-Brittannië</a>
-													<li><a title="Grand Prix van Duitsland" href="/gp-duitsland"  target="_blank" >Grand Prix van Duitsland</a>
-													<li><a title="Grand Prix van Hongarije" href="/gp-hongarije"  target="_blank" >Grand Prix van Hongarije</a>
-													<li><a title="Grand Prix van België" href="/gp-belgie"  target="_blank" >Grand Prix van België</a>
-													<li><a title="Grand Prix van Italië" href="/gp-italie"  target="_blank" >Grand Prix van Italië</a>
-													<li><a title="Grand Prix van Rusland" href="/gp-rusland"  target="_blank" >Grand Prix van Rusland</a>
-													<li><a title="Grand Prix van Singapore" href="/gp-singapore"  target="_blank" >Grand Prix van Singapore</a>
-													<li><a title="Grand Prix van Japan" href="/gp-japan"  target="_blank" >Grand Prix van Japan</a>
-													<li><a title="Grand Prix van Mexico" href="/gp-mexico"  target="_blank" >Grand Prix van Mexico</a>
-													<li><a title="Grand Prix van de Verenigde Staten" href="/gp-verenigde-staten"  target="_blank" >Grand Prix van de Verenigde Staten</a>
-													<li><a title="Grand Prix van Brazilië" href="/gp-brazilie"  target="_blank" >Grand Prix van Brazilië</a>
-													<li><a title="Grand Prix van Abu Dhabi" href="/gp-abu-dhabi"  target="_blank" >Grand Prix van Abu Dhabi</a>
-											</ul>
-							</div>
-							<div class="col-6 col-md">
-				<h6 class="text-white text-uppercase"> <a title="Coureurs" class="text-white" href="/formule-1-coureurs"  target="_blank" >  Coureurs  </a>  </h6>
-									<ul class="list-unstyled text-small">
-													<li><a title="Max Verstappen" href="/max-verstappen"  target="_blank" >Max Verstappen</a>
-													<li><a title="Alexander Albon" href="/alexander-albon" >Alexander Albon</a>
-													<li><a title="Lewis Hamilton" href="/lewis-hamilton" >Lewis Hamilton</a>
-													<li><a title="Valtteri Bottas" href="/valtteri-bottas" >Valtteri Bottas</a>
-													<li><a title="Sebastian Vettel" href="/sebastian-vettel" >Sebastian Vettel</a>
-													<li><a title="Charles Leclerc" href="/charles-leclerc" >Charles Leclerc</a>
-													<li><a title="Sergio Perez" href="/sergio-perez" >Sergio Perez</a>
-													<li><a title="Lance Stroll" href="/lance-stroll" >Lance Stroll</a>
-													<li><a title="Daniel Ricciardo" href="/daniel-ricciardo" >Daniel Ricciardo</a>
-													<li><a title="Kevin Magnussen" href="/kevin-magnussen" >Kevin Magnussen</a>
-													<li><a title="Romain Grosjean" href="/romain-grosjean" >Romain Grosjean</a>
-													<li><a title="Carlos Sainz" href="/carlos-sainz" >Carlos Sainz</a>
-													<li><a title="Lando Norris" href="/lando-norris" >Lando Norris</a>
-													<li><a title="Daniil Kvyat" href="/daniil-kvyat" >Daniil Kvyat</a>
-													<li><a title="Pierre Gasly" href="/pierre-gasly" >Pierre Gasly</a>
-													<li><a title="Kimi Raikkonen" href="/kimi-raikkonen" >Kimi Raikkonen</a>
-													<li><a title="Antonio Giovinazzi" href="/antonio-giovinazzi" >Antonio Giovinazzi</a>
-													<li><a title="George Russell" href="/george-russell" >George Russell</a>
-													<li><a title="Esteban Ocon" href="/esteban-ocon" >Esteban Ocon</a>
-													<li><a title="Nicholas Latifi" href="/nicholas-latifi" >Nicholas Latifi</a>
-											</ul>
-							</div>
-							<div class="col-6 col-md">
-				<h6 class="text-white text-uppercase"> Diversen  </h6>
-									<ul class="list-unstyled text-small">
-													<li><a title="Kwalificatie en Formule 1" href="/kwalificatie-f1" >Kwalificatie en Formule 1</a>
-													<li><a title="Max Verstappen en kwalificatie" href="/max-verstappen-kwalificatie" >Max Verstappen en kwalificatie</a>
-													<li><a title="Formule 1 kalender" href="/formule1-kalender"  target="_blank" >Formule 1 kalender</a>
-													<li><a title="WK Stand" href="/stand-wk-formule-1"  target="_blank" >WK Stand</a>
-													<li><a title="Max Verstappen nieuws" href="/max-verstappen" >Max Verstappen nieuws</a>
-													<li><a title="Red Bull Racing nieuws" href="/red-bull-racing" >Red Bull Racing nieuws</a>
-													<li><a title="Formule 1 nieuws" href="/f1-nieuws" >Formule 1 nieuws</a>
-													<li><a title="Nieuwsalerts Formule 1" href="/nieuwsalerts-formule-1" >Nieuwsalerts Formule 1</a>
-													<li><a title="Wedden op F1" href="/wedden-op-f1" >Wedden op F1</a>
-													<li><a title="Wedden op Verstappen" href="/wedden-op-verstappen" >Wedden op Verstappen</a>
-													<li><a title="F1 live" href="/f1-live" >F1 live</a>
-													<li><a title="Vacatures" href="/vacatures" >Vacatures</a>
-													<li><a title="Contact" href="/contact" >Contact</a>
-											</ul>
-							</div>
-							<div class="col-6 col-md">
-				<h6 class="text-white text-uppercase"> <a title="Teams" class="text-white" href="/formule-1-teams" >  Teams  </a>  </h6>
-									<ul class="list-unstyled text-small">
-													<li><a title="Ferrari" href="/ferrari" >Ferrari</a>
-													<li><a title="Red Bull Racing" href="/red-bull-racing"  target="_blank" >Red Bull Racing</a>
-													<li><a title="Mercedes" href="/mercedes" >Mercedes</a>
-													<li><a title="Renault" href="/renault" >Renault</a>
-													<li><a title="McLaren" href="/mclaren" >McLaren</a>
-													<li><a title="Racing Point" href="/racing-point" >Racing Point</a>
-													<li><a title="Haas" href="/haas" >Haas</a>
-													<li><a title="Williams" href="/williams" >Williams</a>
-													<li><a title="Alfa Romeo" href="/alfa-romeo" >Alfa Romeo</a>
-													<li><a title="AlphaTauri" href="/alphatauri" >AlphaTauri</a>
-											</ul>
-							</div>
-					</div>
-				<div class="row text-center text-white pt-2">
-			<div class="col">
-				<ul class="mvp-foot-soc-list float-left position-relative p-0 m-0">
-													<li><a href="https://www.facebook.com/F1-MAXimaal-2076073459284416" rel="noopener" aria-label="Facebook" target="_blank" class="fa fa-facebook-official fa-2"></a></li>
-																			<li><a href="https://www.instagram.com/f1maximaal" rel="noopener" aria-label="Instagram" target="_blank" class="fa fa-instagram fa-2"></a></li>
-																			<li><a href="https://www.twitter.com/f1maximaal" rel="noopener" aria-label="Twitter" target="_blank" class="fa fa-twitter fa-2"></a></li>
-											</ul>
+					<style>
+			.footer_sitemap div {padding:0;padding-bottom:40px;}
+			.footer_sitemap div h3 {color:#FFF;margin-bottom:15px;font-size:1em;font-weight:700;text-transform:uppercase;}
+			.footer_sitemap div ul {margin:0;padding:0;}
+			.footer_sitemap div li {list-style:square;padding: 5px 0 5px 0;margin-left:15px;}
+			.footer_sitemap div li a {color:#FFF;font-weight:500;text-transform:uppercase;}
+			</style>
+			<div class="footer_sitemap p-3">
+				<div class="row">
+									</div>
+		</div>
+
+
+		<div class="footer-right">
+			<a href="https://www.facebook.com/Twentefans/" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://twitter.com/twentefans" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="/rss/nieuws" target="_blank"><i class="fa fa-rss"></i></a>
+		</div>
+		<div class="footer-left">
+			<div class="footer-links">
+				<div class="align-center"><img src="https://bnmedia.jentcdn.net/assets/bnmedia/image/twentefans.png" alt="Twentefans.nl"></div>
+				<div class="copyright">&copy; 2020 Twentefans.nl &middot; <a href="/page/vacatures" class="btn-vac">Vacatures (1)</a><br /><a href="/sponsoren">Sponsoren</a> - <a href="/page/linkpartners">Linkpartners</a> - <a href="/page/over-ons">Over ons</a> - <a href="/page/disclaimer">Disclaimer</a> - door Bruinsma Reclame</div>
 			</div>
 		</div>
-
-		<div class="row text-center text-uppercase py-4 subfooter">
-			<div class="col">
-				<ul class="p-0 m-0">
-																	<li><a href="/max-verstappen"  rel="noopener">Verstappen</a></li>
-												<li><a href="/formule-1"  rel="noopener">Formule 1</a></li>
-												<li><a href="http://www.f1headlines.nl"  target="_blank"  rel="noopener">F1HEADLINES</a></li>
-														</div>
-		</div>
-
 	</div>
-
-	<div class="text-center text-white-50 bg-black py-4 font-weight-bold">
-		<div class="col">
-			<p class="p-0 m-0">Copyright © 2020 F1 Maximaal</p>
-		</div>
-	</div>
-
 </footer>
 
-
-<div id="search-wrapper">
-	<div id="mvp-search-box">
-		<form method="get" id="searchform" action="/zoeken">
-			<input type="text" name="q" id="q" value="Zoeken" onfocus="if (this.value == &quot;Zoeken&quot;) { this.value = &quot;&quot;; }" onblur="if (this.value == &quot;&quot;) { this.value = &quot;Zoeken&quot;; }">
-			<input type="hidden" id="searchsubmit" value="Search">
-		</form>
-	</div>
-	<a href="#" class="fa fa-times js-toggle-search" aria-hidden="true" style="position:fixed;top:25px;right:40px;font-size:400%;color:#000;"></a>
-</div>
+<a href="/" title="Homepage" class="fixed_header_logo"><img src="https://bnmedia.jentcdn.net/assets/bnmedia/image/twentefans.png" alt="Twentefans.nl" /></a>
 
 
-<div id="user-wrapper">
-	<div id="mvp-search-box">
-				<div class="mvp-search-but-wrap mvp-user-click">
-			<span></span>
-			<span></span>
-		</div>
-	</div>
-	<a href="#" class="fa fa-times js-toggle-user" aria-hidden="true" style="position:fixed;top:25px;right:40px;font-size:400%;color:#000;"></a>
-</div>
-
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="https://reach.jentcdn.net/assets/f1maximaal/js/custom.js"></script>
-<script src="https://reach.jentcdn.net/assets/f1maximaal/js/addtohomescreen.min.js"></script>
 <script>
-addToHomescreen({
-   skipFirstVisit: true,
-   maxDisplayCount: 2,
-   lifespan: 0,
-   displayPace: 20160
+const observer = lozad();
+observer.observe();
+
+$(document).on("click", ".js-forgot-password", function(event) {
+  $('.form-signin').hide();
+  $('.form-pw-forgotten').show();
+  return false;
+});
+$(document).on("click", ".js-login-form", function() {
+  $('.form-signin').show();
+  $('.form-pw-forgotten').hide();
+  return false;
+});
+
+$(document).on("click", ".js-logout", function() {
+	var href = $(this).attr('href');
+	$.ajax({
+		type: 'GET',
+		url: href,
+		dataType: "json",
+		cache: false,
+		success: function(data) {
+			if (data.status == true) {
+				location.reload();
+			} else {
+				alert('Uitloggen mislukt');
+			}
+		}
+	})
+	return false;
+});
+
+$(document).on("click", ".dropdown-menu:not(input, a, .js-forgot-password, .js-logout, .js-login-form)", function (e) {
+    e.stopPropagation();
+});
+
+$(document).on("submit", ".form-pw-forgotten", function () {
+  $.ajax({
+    type: "POST",
+    url: $(this).attr('action'),
+    data: 'email=' + $('#ForgottenEmail').val() + '&_token=' + $('meta[name="csrf-token"]').attr('content'),
+    cache: false,
+    success: function(data){
+      if (data.status == true) {
+        $('.password-forgotten-error').css("color", "#333").html('Je ontvangt een email met daarin een link om je wachtwoord te opnieuw in te stellen.');
+      } else {
+				$('.password-forgotten-error').css("color", "#FF0000").html(data.message.email);
+      }
+    }
+  })
+  return false;
+});
+$(document).on("submit", ".form-signin", function() {
+	var action = $(this).attr('action');
+	var form = $(this).data('form');
+	var fdata = $(form).serialize();
+	$.ajax({
+		type: 'POST',
+		url: action,
+		data: fdata,
+		dataType: "json",
+		cache: false,
+		success: function(data) {
+			$('.signin-error').html('');
+			if (data.status == false) {
+					$('.signin-error').css("color", "#FF0000").html(data.message);
+			} else {
+				window.location.replace(data.data.redirect_to);
+			}
+		}
+	})
+	return false;
+});
+
+
+$( ".js-search" ).on( "click", function() {
+	$('#search').toggle();
+	return false;
+});
+
+$(document).on("click", ".js-search-close", function(event) {
+  $('#search').toggle();
+  return false;
+});
+
+
+$( ".js-menu" ).on( "click", function() {
+
+	var menu = $(this).attr("data-id");
+	$("#" + menu).toggle();
+	$(this).find('i').toggle();
+
+	$( ".js-menu" ).each(function(index) {
+		var m = $(this).attr("data-id");
+		if (m != menu) {
+			$("#" + m).hide();
+			$(this).find('i').show();
+			$(this).find('i.fa-times').hide();
+		}
+	});
+});
+
+
+$( ".navbar-toggler" ).on( "click", function() {
+	$(this).toggleClass('active');
 });
 </script>
 
-	<!-- PLACE COMMENT AFTER FIRST LOGIN -->
-	<script>
-	var localComment = localStorage.getItem('preComment');
-	var localUrl = localStorage.getItem('preComment_url');
-	var localArticle_id = localStorage.getItem('preComment_articleID');
-	if ((localComment !=null) && (localArticle_id !=null)) {
-	jQuery.ajax({
-        type: "POST",
-        url: '/api/v1/article/' + localArticle_id + '/comment',
-        data: 'content=' + localComment + '&_token=' + $('meta[name="csrf-token"]').attr('content'),
-        cache: false,
-        success: function(data) {
-            if (data.status == true) {
-                //$('body').prepend('<div class="alert alert-success"><div class="container">Reactie geplaatst, <a href="'+localUrl+'#comments">bekijk jouw reactie</a>.</div></div>');
-								localStorage.clear();
-								window.location.href = localUrl + '#comments';
-            }
-        }
-    });
+<style>
+@media  only screen and (max-width: 992px) {
+  .responsive-news {
+    display:none;
+  }
+}
+.slick-dots {
+  top: 0px;text-align:right;
+}
+.slick-dots li button:before {
+    opacity: .7;
+    color: #FFF;
 	}
-	</script>
-	<!-- END PLACE FIRST COMMENT AFTER FIRST LOGIN -->
+</style>
+<script type="text/javascript">
+$('.responsive-news').slick({dots: true,infinite: false,speed: 300,slidesToShow: 3,slidesToScroll: 3,rows:1, responsive: [{breakpoint: 992,settings: "unslick" }]});
+$('.responsive-news-big').slick({dots: false,infinite: false, arrows: false, speed: 300,slidesToShow: 2,slidesToScroll: 1,rows:1, responsive: [{breakpoint: 992,settings: {rows:1, slidesToShow: 1,slidesToScroll: 1, slidesPerRow: 1, infinite: true,dots: true, arrows: false}}]});
 
+$('.responsive-videos').slick({dots: true,infinite: false,speed: 300,slidesToShow: 3,slidesToScroll: 3,responsive: [{breakpoint: 992,settings: {slidesToShow: 1,slidesToScroll: 1,infinite: true,dots: true, arrows: false}}]});
 
+$(function() {
+	$('[data-toggle="tooltip"]').tooltip()
+})
 
-	<script>
-
-jQuery( document ).ready(function() {
-  jQuery(".comment").bind({
-    mouseenter: function() {
-                  if ((!jQuery(this).find('textarea').length)) { jQuery(this).find('.js-tools:first').append('<small class="toolbar"> <a class="js-edit comment-reply-link" style="clear:none;"  href="#">Bewerken</a> <a class="js-delete comment-reply-link" style="clear:none;" href="#">Verwijderen</a></small>'); }
-            }
-  });
-  jQuery( ".comment" ).on( "mouseleave", function() {
-    jQuery(this).find(".toolbar").remove();
-  });
+$(document).on("click", ".js-extend", function() {
+	$(this).parents('table').find('.extend').toggleClass("hidden");
+	$(this).html(function(i, text) {
+		return text === "<i class=\"fa fa-angle-double-up\" aria-hidden=\"true\"></i>" ? "<i class=\"fa fa-angle-double-down\" aria-hidden=\"true\"></i>" : "<i class=\"fa fa-angle-double-up\" aria-hidden=\"true\"></i>";
+	})
+	return false;
 });
 </script>
 
 <script type="text/javascript">
-var count = $(".article_content").find("p").length;
-  $(".article_content p:first-child").after($('.js-in-article'));
-</script>
-  <script type="text/javascript">
-  var count = $(".article_content").find("p").length;
-  if (count > 7) {
-    $(".article_content p:nth-child(8)").after($('.special_ads'));
-    $('.special_ads').show();
+var count = $("#contents").find("p").length;
+if (count > 1) {
+  $("#contents p:first-child").after($('.special_ads'));
+}
 
-		var msTag = {
-		 site: 'f1maximaal',
-		 page: 'article',
-		langArtikel: true
+var count2 = $("#contents").find("p").length;
+
+
+
+
+
+	if (count2 > 2) {
+		var title = $( ".mrb_js ul li:first-child a:last-child" ).html().trim();
+		var main_title = $( "h1" ).html().trim();
+		var link = $( ".mrb_js ul li:first-child a:last-child" ).attr('href');
+	if (main_title !== title) {
+		console.log('Current article is not the same as the first most read article.');
+	var new_link = '<div style="text-align:center;margin-bottom:1em;font-weight:bold;">Lees ook<br /><a style="font-weight:normal;" href="'+link+'">'+title+'</a></div>';
+	$(new_link).insertAfter( "#contents p:nth-of-type(2)" );
 	}
 
-  }
-  </script>
-
-
-
-<script>
-/* Replace variabel with comments */
-$('.article_content').each(function () {
-  if($(this).is(':contains({reacties})')) {
-    commentsCount = parseInt($(".mvp-post-soc-text span").html());
-    $(this).html($(this).html().replace('{reacties}',commentsCount));
-  };
-});
+}
 </script>
+<style>
+.body-right {padding-right:0;}
 
-<script sync src="https://platform.twitter.com/widgets.js"></script>
+.slick-list {
+margin: 0 -3px;
+}
 
-<script>
+.slick-slide {
+margin: 0px 3px;
+opacity:0;
+transition-delay: 0s;
+transition-duration: 0.2s;
+transition-property: opacity;
+transition-timing-function: ease-out;
+}
 
-	window.onload = (function(){
+.slick-slide.slick-active {
+opacity:1;
+transition-delay: 0.3s;
+transition-duration: 0.2s;
+transition-property: opacity;
+transition-timing-function: ease-in;
+}
 
-			var tweets = jQuery(".tweet");
-			jQuery(tweets).each( function( t, tweet ) {
-				var id = jQuery(this).attr('id');
-
-				twttr.widgets.createTweet(
-					id, tweet,
-					{
-						conversation : 'none',    // or all
-						cards        : 'visible',  // or visible
-						linkColor    : '#cc0000', // default is blue
-						theme        : 'light'    // or dark
-					});
-				});
-
-	});
-
-
-	$(document).on("click", ".updatebar", function() {
-		$(".live_block").animate({ scrollTop: 0 }, "fast");
-		$(".updatebar").hide();
-		return false;
-	});
-
-	$(document).ready(function() {
-		$(".live_block").on( 'scroll', function(){
-			if (($('.live_block').scrollTop() == 0) && ($('.updatebar').is(":visible"))) {
-				$(".updatebar").hide();
-			}
-		});
-	});
-	</script>
-
-
-	<script>
-	$('.js-logout').click(function(e) {
-	e.preventDefault();
-	FB.getLoginStatus(function(response) {
-		console.log(response.status);
-	if (response.status == 'connected') {
-	  FB.logout(function(response) {
-	    $.ajax({
-	      url: '/api/v1/auth/logout',
-	      type: 'GET',
-	      success: function(result) {
-	        return window.location = '/';
-	      }
-	    });
-	  });
-	} else {
-		$.ajax({
-			url: '/api/v1/auth/logout',
-			type: 'GET',
-			success: function(result) {
-				return window.location = '/';
-			}
-		});
-	}
-	});
-	return false;
-	});
-	</script>
 </body>
 </html>
