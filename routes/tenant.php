@@ -14,4 +14,9 @@ Route::group(['middleware' => 'cacheable:1'], function() {
   Route::get('/', function () {
       return view('welcome', ['id' => tenant('id'), 'email' => tenant('email'), 'plan' => tenant('plan')]);
   });
+
+
+
 });
+Route::get('/home', 'HomeController@index')->name('home');
+Auth::routes();
