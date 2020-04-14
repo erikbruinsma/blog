@@ -11,20 +11,10 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-<<<<<<< HEAD
-     public function register()
-     {
-         $this->app->bind(
-           \Auth0\Login\Contract\Auth0UserRepository::class,
-           \App\Repositories\CustomUserRepository::class
-         );
-     }
-=======
     public function register()
     {
         //
     }
->>>>>>> parent of cbcb841... test
 
     /**
      * Bootstrap any application services.
