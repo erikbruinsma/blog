@@ -100,8 +100,8 @@
                     ?>
                     <br />
                     Pagina: {{ $id ?? 'reboot' }}<br />
-                    Email: {!! $email !!}<br />
-                    Plan: {!! $plan !!}
+                    Email: {!! $email ?? '' !!}<br />
+                    Plan: {!! $plan ?? '' !!}
 
                 </div>
 
