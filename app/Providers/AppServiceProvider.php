@@ -12,12 +12,12 @@ class AppServiceProvider extends ServiceProvider
      * @return void
      */
      public function register()
-     {
-         $this->app->bind(
-             \Auth0\Login\Contract\Auth0UserRepository::class,
-             \App\Repositories\CustomUserRepository::class
-         );
-     }
+    {
+        $this->app->bind(
+            \Auth0\Login\Contract\Auth0UserRepository::class,
+            \App\Repositories\CustomUserRepository::class
+        );
+    }
 
     /**
      * Bootstrap any application services.
