@@ -8,6 +8,7 @@ class ArticleController extends Controller
 {
   public function index()
   {
+      toFacebookPoster(['title' => 'test titel', 'url' => 'https://www.google.nl', 'link' => 'https://www.google.nl']);
       return view('home');
 
 
@@ -18,5 +19,5 @@ class ArticleController extends Controller
       return with(new FacebookPosterPost($article->title))
           ->withLink($article->getLink());
   }
-  
+
 }
