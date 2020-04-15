@@ -27,5 +27,5 @@ Route::group(['middleware' => 'cacheable:1'], function() {
 Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
-Route::get('/redirect', 'SocialAuthFacebookController@redirect');
-Route::get('/callback', 'SocialAuthFacebookController@callback');
+Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
+Route::get('/callback/{provider}', 'SocialController@callback');
