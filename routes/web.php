@@ -30,14 +30,5 @@ Auth::routes();
 Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
 Route::get('/callback/{provider}', 'SocialController@callback');
 
-/*
-Route::get('/articles', 'ArticlesController@index');
 
-
-
-public function toFacebookPoster($blog)
-    {
-        return with(new FacebookPosterPost($blog->title))
-            ->withLink($blog->getLink());
-    }
-    */
+Route::get('/articlePost', 'ArticleController@index');
