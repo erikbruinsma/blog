@@ -34,12 +34,6 @@ return [
     'client_id' => env('FACEBOOK_APP_ID'),
     'client_secret' => env('FACEBOOK_APP_SECRET'),
     'redirect' => env('FACEBOOK_REDIRECT'),
-    ],
-
-    'facebook_poster' => [
-      'client_id' => getenv('FACEBOOK_APP_ID'),
-      'client_secret' => getenv('FACEBOOK_APP_SECRET'),
-      'access_token' => getenv('FACEBOOK_ACCESS_TOKEN'),
-    ],
+  ],
 
 ];
