@@ -1,4 +1,4 @@
-<form method="post" action="{{ route('post.store') }}" />
+<form method="post" action="{{ route('article.store') }}" />
  @csrf
 <input type="text" name="title" value="{!! Input::old('title', '') !!}" />
 <textarea name="content" rows="3">{!! Input::old('content', '') !!}</textarea>
