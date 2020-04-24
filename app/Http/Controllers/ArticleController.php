@@ -94,7 +94,7 @@ class ArticleController extends Controller
       $article = Article::find($article);
         $article->title = $request->get('title');
         $article->content = $request->get('content');
-        $contact->save();
+        $article->save();
 
         return redirect('/article')->with('success', 'Article updated!');
 
