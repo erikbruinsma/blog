@@ -47,6 +47,7 @@ class ArticleController extends Controller
 
       $article = new Article([
           'title' => $request->get('title'),
+          'title_slug' => str_slug($request->get('title')),
           'content' => $request->get('content')
       ]);
       $article->save();
