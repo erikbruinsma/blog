@@ -18,7 +18,7 @@ class CreateArticlesTable extends Migration
             $table->string('title');
             $table->string('title_slug');
             $table->longText('content');
-            $table->dateTime('published_at');
+            $table->dateTime('published_at')->useCurrent();
             $table->timestamps();
         });
     }
