@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Article;
 use Illuminate\Http\Request;
 
+protected $fillable = ['title','content'];
+
 class ArticleController extends Controller
 {
     /**
@@ -37,8 +39,7 @@ class ArticleController extends Controller
     {
       $request->validate([
           'title'=>'required',
-          'content'=>'required',
-          'published_at'=>'required'
+          'content'=>'required'
       ]);
 
       $article = new Article([
