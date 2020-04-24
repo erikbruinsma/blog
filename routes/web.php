@@ -31,4 +31,4 @@ Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
 Route::get('/callback/{provider}', 'SocialController@callback');
 
 
-Route::get('/article', 'ArticleController@index');
+Route::resource('article', 'ArticleController');
