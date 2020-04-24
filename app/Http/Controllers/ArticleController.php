@@ -74,6 +74,7 @@ class ArticleController extends Controller
     public function edit(Article $article)
     {
       $articles = Article::find($article);
+      dd($articles);
       return view('article.edit', ['article' => $articles]);
     }
 
