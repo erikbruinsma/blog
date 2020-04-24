@@ -91,7 +91,7 @@ class ArticleController extends Controller
           'content'=>'required'
       ]);
 
-      $article = Article::find($article);
+        $article = Article::find($article)->first();
         $article->title = $request->get('title');
         $article->content = $request->get('content');
         $article->save();
