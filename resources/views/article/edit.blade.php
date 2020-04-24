@@ -8,7 +8,7 @@
       </div><br />
     @endif
 
-    <form method="post" action="{{ route('article.update') }}" />
+    <form method="post" action="{{ route('article.update', [$article->id]) }}" />
  @csrf
 <input type="text" name="title" value="{!! Request::old('title', $article->title) !!}" />
 <textarea name="content" rows="3">{!! Request::old('content', $article->content) !!}</textarea>
