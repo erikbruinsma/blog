@@ -93,6 +93,7 @@ class ArticleController extends Controller
 
         $article = Article::find($article)->first();
         $article->title = $request->get('title');
+        $article->title_slug = Str::slug($request->get('title'), '-');
         $article->content = $request->get('content');
         $article->save();
 

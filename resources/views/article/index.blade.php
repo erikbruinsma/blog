@@ -10,7 +10,7 @@
 
 
 @foreach ($articles as $article)
-<a href="{!! route('article.edit', [$article->id]) !!}">{!! $article->title !!}</a> {!! $article->title_slug !!} {!! $article->content !!} {!! $article->created_at !!}
+<a href="{!! route('article.edit', [$article->id]) !!}">{!! $article->title !!}</a> {!! $article->content !!} {!! $article->created_at !!}
 
 <form action="{{ route('article.destroy', $article->id)}}" method="post">
                   @csrf
