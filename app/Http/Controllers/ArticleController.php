@@ -49,7 +49,7 @@ class ArticleController extends Controller
           'title' => $request->get('title'),
           'title_slug' => Str::slug($request->get('title'), '-'),
           'content' => $request->get('content')
-      ]);
+        ]);
       $article->save();
       return redirect('/article/create')->with('success', 'Contact saved!');
     }
