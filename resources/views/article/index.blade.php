@@ -1,1 +1,2 @@
+Alle artikelen:
 {!! dd($articles) !!}
