@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Article;
 use Illuminate\Http\Request;
 
-protected $fillable = ['title','content'];
+
 
 class ArticleController extends Controller
 {
@@ -14,6 +14,9 @@ class ArticleController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+     protected $fillable = ['title','content','published_at'];
+
     public function index()
     {
       return view('article.index', ['users' => User::all()]);
