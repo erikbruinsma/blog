@@ -9,13 +9,14 @@ use Illuminate\Http\Request;
 
 class ArticleController extends Controller
 {
+
+    protected $fillable = ['title', 'content', 'published_at'];
+
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
-
-     protected $fillable = ['title','content','published_at'];
 
     public function index()
     {
