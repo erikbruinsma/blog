@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Article;
 use Illuminate\Http\Request;
-
+use Illuminate\Support\Str;
 
 
 class ArticleController extends Controller
