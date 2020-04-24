@@ -73,7 +73,8 @@ class ArticleController extends Controller
      */
     public function edit(Article $article)
     {
-        //
+      $article = Article::find($article);
+      return view('article.edit', compact('article'));
     }
 
     /**
@@ -85,7 +86,18 @@ class ArticleController extends Controller
      */
     public function update(Request $request, Article $article)
     {
-        //
+      $request->validate([
+          'title'=>'required',
+          'content'=>'required'
+      ]);
+
+      $article = Article::find($article);
+        $article->title = $request->get('title');
+        $article->content = $request->get('content');
+        $contact->save();
+
+        return redirect('/article')->with('success', 'Article updated!');
+
     }
 
     /**
