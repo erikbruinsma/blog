@@ -35,7 +35,19 @@ class ArticleController extends Controller
      */
     public function store(Request $request)
     {
-        //
+      $request->validate([
+          'title'=>'required',
+          'content'=>'required',
+          'published_at'=>'required'
+      ]);
+
+      $article = new Article([
+          'title' => $request->get('title'),
+          'content' => $request->get('content'),
+          'published_at' => $request->get('published_at'),
+      ]);
+      $article->save();
+      return redirect('/article/create')->with('success', 'Contact saved!');
     }
 
     /**

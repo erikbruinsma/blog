@@ -1,4 +1,14 @@
-<form method="post" action="{{ route('article.store') }}" />
+@if ($errors->any())
+      <div class="alert alert-danger">
+        <ul>
+            @foreach ($errors->all() as $error)
+              <li>{{ $error }}</li>
+            @endforeach
+        </ul>
+      </div><br />
+    @endif
+
+    <form method="post" action="{{ route('article.store') }}" />
  @csrf
 <input type="text" name="title" value="{!! Request::old('title', '') !!}" />
 <textarea name="content" rows="3">{!! Request::old('content', '') !!}</textarea>
