@@ -108,7 +108,7 @@ class ArticleController extends Controller
      */
     public function destroy(Article $article)
     {
-      $article = Contact::find($article)->first();
+      $article = Article::find($article)->first();
       $article->delete();
 
       return redirect('/article')->with('success', 'Article deleted!');
