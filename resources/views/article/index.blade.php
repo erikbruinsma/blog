@@ -6,7 +6,7 @@
     </div>
   @endif
 
-  <a href="{!! route('article.create') !!}" />aanmaken</a>
+  <a href="{!! route('article.create') !!}" />aanmaken</a><br /><br />
 
 
 @foreach ($articles as $article)
