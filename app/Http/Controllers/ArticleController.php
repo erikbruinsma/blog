@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 class ArticleController extends Controller
 {
 
-    protected $fillable = ['title', 'content', 'published_at'];
+    protected $guarded = [];
 
     /**
      * Display a listing of the resource.
