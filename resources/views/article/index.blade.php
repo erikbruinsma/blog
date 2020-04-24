@@ -1,4 +1,10 @@
-Alle artikelen ({!! $articles->count() !!}):
+<h1>Alle artikelen ({!! $articles->count() !!})</h1>
+
+@if(session()->get('success'))
+    <div class="alert alert-success">
+      {{ session()->get('success') }}
+    </div>
+  @endif
 
 
 @foreach ($articles as $article)

@@ -51,7 +51,7 @@ class ArticleController extends Controller
           'content' => $request->get('content')
         ]);
       $article->save();
-      return redirect('/article/create')->with('success', 'Contact saved!');
+      return redirect('/article')->with('success', 'Contact saved!');
     }
 
     /**
