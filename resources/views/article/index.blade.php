@@ -6,6 +6,8 @@
     </div>
   @endif
 
+  <a href="{!! route('article.create') !!}" />aanmaken</a>
+
 
 @foreach ($articles as $article)
 {!! $article->title !!} {!! $article->title_slug !!} {!! $article->content !!} {!! $article->created_at !!}
