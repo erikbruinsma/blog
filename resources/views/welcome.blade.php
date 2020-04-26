@@ -17,7 +17,7 @@
 <body class="antialiased font-sans bg-gray-100">
     <div id="app">
         <nav x-data="{ open: false }" @keydown.window.escape="open = false" class="bg-gray-800">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center">
           <div class="flex-shrink-0">
